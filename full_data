@@ -1,0 +1,9664 @@
+  const repertoryData = [
+  {
+    "topic": "ABDOMEN (RIGHT)",
+    "remedies": [
+      {
+        "name": "Chellidonium Majus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ABDOMEN , LEFT",
+    "remedies": [
+      {
+        "name": "alumina",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "ABDOMEN",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      },
+      {
+        "name": "ARGENTUM NITRICUM",
+        "grade": 3
+      },
+      {
+        "name": "AESCULUS HIPPOCASTANUM",
+        "grade": 3
+      },
+      {
+        "name": "BRYONIA ALBA",
+        "grade": 3
+      },
+      {
+        "name": "CINA",
+        "grade": 3
+      },
+      {
+        "name": "COLOCYNTHIS",
+        "grade": 3
+      },
+      {
+        "name": "cuprum metallicum",
+        "grade": 1
+      },
+      {
+        "name": "dioscorea villosa",
+        "grade": 2
+      },
+      {
+        "name": "Gnaphalium",
+        "grade": 2
+      },
+      {
+        "name": "Kreosotum",
+        "grade": 2
+      },
+      {
+        "name": "PLUMBUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Sulphur",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ABDOMINAL NERVES",
+    "remedies": [
+      {
+        "name": "VERATRUM ALBUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "ABDOMINAL VEINS",
+    "remedies": [
+      {
+        "name": "ALOES SOCOTRINA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "ABDOMINAL WALLS",
+    "remedies": [
+      {
+        "name": "Hamamelis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "AIR PASSAGES",
+    "remedies": [
+      {
+        "name": "Kali Bichromicum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ANKLE",
+    "remedies": [
+      {
+        "name": "Ledum Palustre",
+        "grade": 2
+      },
+      {
+        "name": "Manganum",
+        "grade": 1
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      },
+      {
+        "name": "Ruta",
+        "grade": 1
+      },
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "ANUS",
+    "remedies": [
+      {
+        "name": "collinsonia",
+        "grade": 2
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Paeonia officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Ratania",
+        "grade": 2
+      },
+      {
+        "name": "SABADILLA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "ANUS (MUSCLE)",
+    "remedies": [
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "ARM , LEFT",
+    "remedies": [
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      },
+      {
+        "name": "Naja Tripudians",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "ARMS",
+    "remedies": [
+      {
+        "name": "Stramonium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "ARTERIES",
+    "remedies": [
+      {
+        "name": "Phosphorus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ATRIEAL",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "BACK",
+    "remedies": [
+      {
+        "name": "DULCAMARA",
+        "grade": 3
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 2
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "BACK , LUMBAR",
+    "remedies": [
+      {
+        "name": "Ruta",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BETWEEN SCAPULAE",
+    "remedies": [
+      {
+        "name": "ammonium muraticum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BILE DUCTS",
+    "remedies": [
+      {
+        "name": "Natrium Phosphoricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BILE GLAND",
+    "remedies": [
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BLADDER",
+    "remedies": [
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "benzoicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "berberis vulgaris",
+        "grade": 1
+      },
+      {
+        "name": "Borax",
+        "grade": 1
+      },
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 2
+      },
+      {
+        "name": "CAUSTICUM",
+        "grade": 3
+      },
+      {
+        "name": "Chimaphila",
+        "grade": 1
+      },
+      {
+        "name": "croton tiglium",
+        "grade": 1
+      },
+      {
+        "name": "cubeba officinalis",
+        "grade": 1
+      },
+      {
+        "name": "dulcamara",
+        "grade": 1
+      },
+      {
+        "name": "Lilium Tigrinum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 2
+      },
+      {
+        "name": "Plantago majour",
+        "grade": 1
+      },
+      {
+        "name": "Prunus spinosa",
+        "grade": 1
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 2
+      },
+      {
+        "name": "Senecio Aureus",
+        "grade": 2
+      },
+      {
+        "name": "Senega",
+        "grade": 1
+      },
+      {
+        "name": "Terebinthinae Oleum",
+        "grade": 1
+      },
+      {
+        "name": "Verbascum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BLOOD",
+    "remedies": [
+      {
+        "name": "AILANTHUS",
+        "grade": 3
+      },
+      {
+        "name": "aletris farinose",
+        "grade": 2
+      },
+      {
+        "name": "ammonium carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "ammonium muraticum",
+        "grade": 1
+      },
+      {
+        "name": "apis mellifica",
+        "grade": 1
+      },
+      {
+        "name": "Aranea diadema",
+        "grade": 1
+      },
+      {
+        "name": "ARNICA MONTANA",
+        "grade": 3
+      },
+      {
+        "name": "arsenicum album",
+        "grade": 2
+      },
+      {
+        "name": "Arum triphyllum",
+        "grade": 1
+      },
+      {
+        "name": "BAPTISIA",
+        "grade": 3
+      },
+      {
+        "name": "bryonia alba",
+        "grade": 1
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 1
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "carbo vegetabilis",
+        "grade": 2
+      },
+      {
+        "name": "carbolicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "Cedron",
+        "grade": 1
+      },
+      {
+        "name": "CHINA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "Cinnabaris",
+        "grade": 2
+      },
+      {
+        "name": "Cornus circinate",
+        "grade": 2
+      },
+      {
+        "name": "CROTALUS HORRIDUS",
+        "grade": 3
+      },
+      {
+        "name": "cuprum metallicum",
+        "grade": 1
+      },
+      {
+        "name": "cyclamen europaem",
+        "grade": 1
+      },
+      {
+        "name": "diphtherinum",
+        "grade": 2
+      },
+      {
+        "name": "echinacea angustifolia",
+        "grade": 2
+      },
+      {
+        "name": "elaps corallinus",
+        "grade": 2
+      },
+      {
+        "name": "Eucalyptus",
+        "grade": 2
+      },
+      {
+        "name": "Ferrum Metalicum",
+        "grade": 2
+      },
+      {
+        "name": "Hyoscyamus Niger",
+        "grade": 1
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Chloricum",
+        "grade": 1
+      },
+      {
+        "name": "KREOSOTUM",
+        "grade": 3
+      },
+      {
+        "name": "LAC DEFLORATUM",
+        "grade": 3
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 2
+      },
+      {
+        "name": "Plumbum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "PYROGENIUM",
+        "grade": 3
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      },
+      {
+        "name": "SECALE CORNUTUM",
+        "grade": 3
+      },
+      {
+        "name": "Solidago",
+        "grade": 1
+      },
+      {
+        "name": "Sulphuricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Terebinthinae Oleum",
+        "grade": 1
+      },
+      {
+        "name": "VARIOLINUM",
+        "grade": 3
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      },
+      {
+        "name": "Vipera",
+        "grade": 2
+      },
+      {
+        "name": "Zincum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "BLOOD VESSELS",
+    "remedies": [
+      {
+        "name": "ARNICA MONTANA",
+        "grade": 3
+      },
+      {
+        "name": "baryta carbonica",
+        "grade": 1
+      },
+      {
+        "name": "Belladona",
+        "grade": 1
+      },
+      {
+        "name": "BELLIS PERENNIS",
+        "grade": 3
+      },
+      {
+        "name": "Ferrum Metalicum",
+        "grade": 2
+      },
+      {
+        "name": "Iodum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium nitricum",
+        "grade": 1
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      },
+      {
+        "name": "Plumbum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "SECALE CORNUTUM",
+        "grade": 3
+      },
+      {
+        "name": "Sulphuricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BONES (FLAT)",
+    "remedies": [
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 1
+      },
+      {
+        "name": "Symphytum Officinale",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BONES",
+    "remedies": [
+      {
+        "name": "Aranea diadema",
+        "grade": 1
+      },
+      {
+        "name": "argentum metalicum",
+        "grade": 1
+      },
+      {
+        "name": "arum metallicum",
+        "grade": 2
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "CALCAREA PHOSPHORICA",
+        "grade": 3
+      },
+      {
+        "name": "calcarea sulphurica",
+        "grade": 1
+      },
+      {
+        "name": "capsicum Annuum",
+        "grade": 1
+      },
+      {
+        "name": "Cinnabaris",
+        "grade": 1
+      },
+      {
+        "name": "Cobaltum",
+        "grade": 1
+      },
+      {
+        "name": "daphne indica",
+        "grade": 1
+      },
+      {
+        "name": "drosera rotundifolia",
+        "grade": 2
+      },
+      {
+        "name": "EUPATORIUM PERFOLIATUM",
+        "grade": 3
+      },
+      {
+        "name": "Euphorbium",
+        "grade": 2
+      },
+      {
+        "name": "Fluoricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius",
+        "grade": 1
+      },
+      {
+        "name": "Mezereum",
+        "grade": 2
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 2
+      },
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "Rhododendron",
+        "grade": 2
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 2
+      },
+      {
+        "name": "Syphilinum",
+        "grade": 2
+      },
+      {
+        "name": "Theridion",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "BONES, LONG (STILL)",
+    "remedies": [
+      {
+        "name": "drosera rotundifolia",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BOWELS (RIGHT)",
+    "remedies": [
+      {
+        "name": "Chellidonium majus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BOWELS",
+    "remedies": [
+      {
+        "name": "Allium Cepa",
+        "grade": 1
+      },
+      {
+        "name": "Antimonium Tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "Argentum Nitricum",
+        "grade": 2
+      },
+      {
+        "name": "Benzoicum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Carbolicum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Croton Tiglium",
+        "grade": 1
+      },
+      {
+        "name": "GAMBOGIA",
+        "grade": 3
+      },
+      {
+        "name": "Magnesium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 1
+      },
+      {
+        "name": "Nux Vomica",
+        "grade": 2
+      },
+      {
+        "name": "Petroleum",
+        "grade": 1
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      },
+      {
+        "name": "PSORINUM",
+        "grade": 3
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BOWELS, LOWER",
+    "remedies": [
+      {
+        "name": "Cantharis vesicatoria",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "BRAIN AND NERVES",
+    "remedies": [
+      {
+        "name": "ZINCUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "BRAIN CORD",
+    "remedies": [
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "BRAIN(BASE)",
+    "remedies": [
+      {
+        "name": "Gelsemium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BRAIN",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 2
+      },
+      {
+        "name": "AETHUSA CYNAPIUM",
+        "grade": 3
+      },
+      {
+        "name": "Arum triphyllum",
+        "grade": 2
+      },
+      {
+        "name": "Belladona",
+        "grade": 2
+      },
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 1
+      },
+      {
+        "name": "CHLORALUM HYDRATUM",
+        "grade": 3
+      },
+      {
+        "name": "CICUTA VIROSA",
+        "grade": 3
+      },
+      {
+        "name": "COCA",
+        "grade": 3
+      },
+      {
+        "name": "GLONONIUM",
+        "grade": 3
+      },
+      {
+        "name": "HELLEBORUS NIGER",
+        "grade": 3
+      },
+      {
+        "name": "Hydrcyanicum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Hyoscyamus Niger",
+        "grade": 2
+      },
+      {
+        "name": "Kali Bromatum",
+        "grade": 2
+      },
+      {
+        "name": "kalium phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "LAUROCERASUS",
+        "grade": 3
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 2
+      },
+      {
+        "name": "Muriaticum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Opium",
+        "grade": 2
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "STRAMONIUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "BRONCHI",
+    "remedies": [
+      {
+        "name": "ammonium carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "copaiva officinalis",
+        "grade": 1
+      },
+      {
+        "name": "dulcamara",
+        "grade": 1
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 1
+      },
+      {
+        "name": "Grindelia robusta",
+        "grade": 1
+      },
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 1
+      },
+      {
+        "name": "Terebinthinae Oleum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "BUCCAL",
+    "remedies": [
+      {
+        "name": "Mercurius",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CALF",
+    "remedies": [
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CANTHI , INNER",
+    "remedies": [
+      {
+        "name": "Zincum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CAPILLARIES",
+    "remedies": [
+      {
+        "name": "Belladona",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Cyanatus",
+        "grade": 1
+      },
+      {
+        "name": "MILLEFOLIUM",
+        "grade": 3
+      },
+      {
+        "name": "Sanguinaria Canadensis",
+        "grade": 1
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CAPILLARIES CIRCULATION",
+    "remedies": [
+      {
+        "name": "Ledum Palustre",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "CARDIAC",
+    "remedies": [
+      {
+        "name": "Coffea cruda",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CARDIO – VASCULAR SYSTEM",
+    "remedies": [
+      {
+        "name": "Kali arsenicosum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CARTILAGES",
+    "remedies": [
+      {
+        "name": "argentum metalicum",
+        "grade": 2
+      },
+      {
+        "name": "calcarea phosphorica",
+        "grade": 1
+      },
+      {
+        "name": "Ruta",
+        "grade": 2
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      },
+      {
+        "name": "SYMPHYTUM OFFICINALE",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "CAVITIES",
+    "remedies": [
+      {
+        "name": "Kalium nitricum",
+        "grade": 2
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "CAVITIES , HEAD",
+    "remedies": [
+      {
+        "name": "Phosphorus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "CAVITIES , HEART",
+    "remedies": [
+      {
+        "name": "Phosphorus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "CAVITIES,LUNGS",
+    "remedies": [
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "CELLULAR TISSUES",
+    "remedies": [
+      {
+        "name": "anthracium",
+        "grade": 1
+      },
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "bryonia alba",
+        "grade": 1
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius Iodatus Ruber",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 2
+      },
+      {
+        "name": "Tarentula Cubensis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "CENTRAL NERVOUS SYSTEM",
+    "remedies": [
+      {
+        "name": "Thyroidinum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CEREBELLUM",
+    "remedies": [
+      {
+        "name": "Naja tripudians",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CEREBRO-SPINAL",
+    "remedies": [
+      {
+        "name": "argentum nitricum",
+        "grade": 2
+      },
+      {
+        "name": "camphora officinalis",
+        "grade": 1
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 2
+      },
+      {
+        "name": "CINA",
+        "grade": 3
+      },
+      {
+        "name": "cocculus indicus",
+        "grade": 2
+      },
+      {
+        "name": "crotalus horridus",
+        "grade": 1
+      },
+      {
+        "name": "cuprum metallicum",
+        "grade": 2
+      },
+      {
+        "name": "CYCLAMEN EUROPAEM",
+        "grade": 3
+      },
+      {
+        "name": "Ignatia Amara",
+        "grade": 2
+      },
+      {
+        "name": "Justicia Adhatoda",
+        "grade": 1
+      },
+      {
+        "name": "Nux Vomica",
+        "grade": 1
+      },
+      {
+        "name": "OENANTHE CROCATA",
+        "grade": 3
+      },
+      {
+        "name": "Oleander",
+        "grade": 1
+      },
+      {
+        "name": "Opium",
+        "grade": 1
+      },
+      {
+        "name": "Tabacum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CHANGING SIDES",
+    "remedies": [
+      {
+        "name": "antimonium crudum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CHEST (RIGHT)",
+    "remedies": [
+      {
+        "name": "asclepias tuberosa",
+        "grade": 1
+      },
+      {
+        "name": "Phellandrium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CHEST",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 2
+      },
+      {
+        "name": "agaricus muscarius",
+        "grade": 1
+      },
+      {
+        "name": "BRYONIA ALBA",
+        "grade": 3
+      },
+      {
+        "name": "AMMONIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "cactus grandiflora",
+        "grade": 2
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "calcarea phosphorica",
+        "grade": 1
+      },
+      {
+        "name": "coccus cacti",
+        "grade": 1
+      },
+      {
+        "name": "drosera rotundifolia",
+        "grade": 2
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 2
+      },
+      {
+        "name": "Euphrasia Officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      },
+      {
+        "name": "Laurocerasus",
+        "grade": 2
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 2
+      },
+      {
+        "name": "Oleum Jecoris",
+        "grade": 1
+      },
+      {
+        "name": "RANUNCULUS SCLERATUS",
+        "grade": 3
+      },
+      {
+        "name": "Sanguinaria Canadensis",
+        "grade": 1
+      },
+      {
+        "name": "SENEGA",
+        "grade": 3
+      },
+      {
+        "name": "STANNUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 1
+      },
+      {
+        "name": "Sulphur",
+        "grade": 1
+      },
+      {
+        "name": "VERATRUM ALBUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "CHEST LEFT",
+    "remedies": [
+      {
+        "name": "ambra grisea",
+        "grade": 1
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      },
+      {
+        "name": "Theridion",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CHEST RIGHT LOWER",
+    "remedies": [
+      {
+        "name": "KALI CARBONICUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "CHEST WALLS",
+    "remedies": [
+      {
+        "name": "Hamamelis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CHEST, LEFT , LOWER",
+    "remedies": [
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CHILDREN",
+    "remedies": [
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "CHAMOMILA",
+        "grade": 3
+      },
+      {
+        "name": "cina",
+        "grade": 1
+      },
+      {
+        "name": "Nux Moschata",
+        "grade": 1
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "CIRCULAR MUSCLES",
+    "remedies": [
+      {
+        "name": "cactus grandiflora",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "CIRCULATION",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 2
+      },
+      {
+        "name": "agaricus muscarius",
+        "grade": 2
+      },
+      {
+        "name": "ammonium carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "amylenum nitrosum",
+        "grade": 2
+      },
+      {
+        "name": "ANTIMONIUM TARTARICUM",
+        "grade": 3
+      },
+      {
+        "name": "Asterias Rubens",
+        "grade": 2
+      },
+      {
+        "name": "BOVISTA",
+        "grade": 3
+      },
+      {
+        "name": "bromium",
+        "grade": 2
+      },
+      {
+        "name": "BRYONIA ALBA",
+        "grade": 3
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 1
+      },
+      {
+        "name": "CACTUS GRANDIFLORA",
+        "grade": 3
+      },
+      {
+        "name": "CHINA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "CHININUM SULPHURATUM",
+        "grade": 3
+      },
+      {
+        "name": "COFFEA CRUDA",
+        "grade": 3
+      },
+      {
+        "name": "colchicum autumnale",
+        "grade": 2
+      },
+      {
+        "name": "crocus sativus",
+        "grade": 1
+      },
+      {
+        "name": "DIGITALIS PURPUREA",
+        "grade": 3
+      },
+      {
+        "name": "echinacea angustifolia",
+        "grade": 1
+      },
+      {
+        "name": "FERRUM METALICUM",
+        "grade": 3
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "GLONONIUM",
+        "grade": 3
+      },
+      {
+        "name": "Graphites",
+        "grade": 2
+      },
+      {
+        "name": "Gymnocladus",
+        "grade": 1
+      },
+      {
+        "name": "Hydrcyanicum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 2
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 2
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Lycopus Virginicus",
+        "grade": 1
+      },
+      {
+        "name": "Mellilotus Alba",
+        "grade": 1
+      },
+      {
+        "name": "Menyanthes",
+        "grade": 2
+      },
+      {
+        "name": "Moschus",
+        "grade": 1
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      },
+      {
+        "name": "Pyrogenium",
+        "grade": 2
+      },
+      {
+        "name": "Stramonium",
+        "grade": 2
+      },
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Strophanthus",
+        "grade": 1
+      },
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "COCCYX",
+    "remedies": [
+      {
+        "name": "HYPERICUM PERFOLIATUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "COLON",
+    "remedies": [
+      {
+        "name": "aloes socotrina",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CONDYLES",
+    "remedies": [
+      {
+        "name": "argentum metalicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CONNECTIVE TISSUE",
+    "remedies": [
+      {
+        "name": "CALCAREA SULPHURICA",
+        "grade": 3
+      },
+      {
+        "name": "HEPAR SULPHURIS",
+        "grade": 3
+      },
+      {
+        "name": "Iodum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CORD",
+    "remedies": [
+      {
+        "name": "kalium phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Lyssinum",
+        "grade": 1
+      },
+      {
+        "name": "Oxalicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "PLUMBUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "RHUS TOXICODENDRON",
+        "grade": 3
+      },
+      {
+        "name": "Scoparius genista",
+        "grade": 1
+      },
+      {
+        "name": "Secale Cornutum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CRURAL",
+    "remedies": [
+      {
+        "name": "Gnaphalium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "CUTANEOUS NERVES",
+    "remedies": [
+      {
+        "name": "Ipecacuanha",
+        "grade": 1
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "DELTOID",
+    "remedies": [
+      {
+        "name": "Sanguinaria Canadensis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DELTOID (LEFT )",
+    "remedies": [
+      {
+        "name": "Ferrum Metalicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DELTOID (RIGHT)",
+    "remedies": [
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      },
+      {
+        "name": "Staphysagria",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DENTAL",
+    "remedies": [
+      {
+        "name": "Magnesium Carbonicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DESCENDING COLON",
+    "remedies": [
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DIGESTION",
+    "remedies": [
+      {
+        "name": "aethusa cynapium",
+        "grade": 2
+      },
+      {
+        "name": "Ferrum Metalicum",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "NATRIUM CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "Nux Moschata",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "DIGESTIVE ORGANS",
+    "remedies": [
+      {
+        "name": "arnica montana",
+        "grade": 1
+      },
+      {
+        "name": "china officinalis",
+        "grade": 2
+      },
+      {
+        "name": "Fagopyrum",
+        "grade": 1
+      },
+      {
+        "name": "NUX VOMICA",
+        "grade": 3
+      },
+      {
+        "name": "Oleum Animale",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DIGESTIVE SYSTEM",
+    "remedies": [
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DIGESTIVE TRACT , NAVEL",
+    "remedies": [
+      {
+        "name": "COLOCYNTHIS",
+        "grade": 3
+      },
+      {
+        "name": "dioscorea villosa",
+        "grade": 2
+      },
+      {
+        "name": "Oxalicum acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DIGESTIVE TRACT",
+    "remedies": [
+      {
+        "name": "ANTIMONIUM CRUDUM",
+        "grade": 3
+      },
+      {
+        "name": "apocynum",
+        "grade": 2
+      },
+      {
+        "name": "arsenicum iodatum",
+        "grade": 2
+      },
+      {
+        "name": "Asafoetida",
+        "grade": 2
+      },
+      {
+        "name": "Baptisia",
+        "grade": 1
+      },
+      {
+        "name": "berberis vulgaris",
+        "grade": 1
+      },
+      {
+        "name": "BISMUTHUM",
+        "grade": 3
+      },
+      {
+        "name": "CAMPHORA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "CARBO VEGETABILIS",
+        "grade": 3
+      },
+      {
+        "name": "CHAMOMILA",
+        "grade": 3
+      },
+      {
+        "name": "CINA",
+        "grade": 2
+      },
+      {
+        "name": "COLCHICUM AUTUMNALE",
+        "grade": 3
+      },
+      {
+        "name": "Cornus circinate",
+        "grade": 1
+      },
+      {
+        "name": "cuprum metallicum",
+        "grade": 1
+      },
+      {
+        "name": "CUPRUM ARSENICOSUM",
+        "grade": 3
+      },
+      {
+        "name": "cyclamen europaem",
+        "grade": 1
+      },
+      {
+        "name": "IPECACUANHA",
+        "grade": 3
+      },
+      {
+        "name": "IRIS VERSICOLOR",
+        "grade": 3
+      },
+      {
+        "name": "KREOSOTUM",
+        "grade": 3
+      },
+      {
+        "name": "LYCOPODIUM",
+        "grade": 3
+      },
+      {
+        "name": "MAGNESIUM CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "Muriaticum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "Oleander",
+        "grade": 1
+      },
+      {
+        "name": "Opium",
+        "grade": 1
+      },
+      {
+        "name": "Oxalicum acidum",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "Sabadilla",
+        "grade": 1
+      },
+      {
+        "name": "Sepia",
+        "grade": 1
+      },
+      {
+        "name": "Solidago",
+        "grade": 1
+      },
+      {
+        "name": "SULPHURICUM ACIDUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "DORSAL SPINE",
+    "remedies": [
+      {
+        "name": "Chininum Sulphuratum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "DUODENUM",
+    "remedies": [
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Podophyllum Peltatum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "EARS",
+    "remedies": [
+      {
+        "name": "Asafoetida",
+        "grade": 1
+      },
+      {
+        "name": "elaps corallinus",
+        "grade": 1
+      },
+      {
+        "name": "Ferrum Phosphoricum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 2
+      },
+      {
+        "name": "Plantago majour",
+        "grade": 2
+      },
+      {
+        "name": "PSORINUM",
+        "grade": 3
+      },
+      {
+        "name": "Tellurium Metalicum",
+        "grade": 2
+      },
+      {
+        "name": "Zincum Chromate",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ELASTIC FIBRE",
+    "remedies": [
+      {
+        "name": "Calcarea fluorica",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ELASTIC TISSUES",
+    "remedies": [
+      {
+        "name": "Silicea Terra",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "EMOTIONS",
+    "remedies": [
+      {
+        "name": "CHAMOMILA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "EPIDYDYMIS",
+    "remedies": [
+      {
+        "name": "Clematis Erecta",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EPIGASTRIUM",
+    "remedies": [
+      {
+        "name": "Adonis",
+        "grade": 1
+      },
+      {
+        "name": "Cuprum Metallicum",
+        "grade": 2
+      },
+      {
+        "name": "Hydrcyanicum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Lobelia Inflata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EPITHELIUM",
+    "remedies": [
+      {
+        "name": "KALIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "KALIUM SULPHURICUM",
+        "grade": 3
+      },
+      {
+        "name": "Ustilago Maydis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EUSTACHIAN TUBE",
+    "remedies": [
+      {
+        "name": "Ferrum Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 2
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EXCRETIONS",
+    "remedies": [
+      {
+        "name": "kalium phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Oleum Animale",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EXUDATIONS",
+    "remedies": [
+      {
+        "name": "Helleborus Niger",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EYE BALLS",
+    "remedies": [
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "EYE LIDS",
+    "remedies": [
+      {
+        "name": "Staphysagria",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "EYES",
+    "remedies": [
+      {
+        "name": "agnus castus",
+        "grade": 1
+      },
+      {
+        "name": "ALLIUM CEPA",
+        "grade": 3
+      },
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "argentum nitricum",
+        "grade": 2
+      },
+      {
+        "name": "Belladona",
+        "grade": 2
+      },
+      {
+        "name": "CINA",
+        "grade": 3
+      },
+      {
+        "name": "CLEMATIS ERECTA",
+        "grade": 3
+      },
+      {
+        "name": "Comocladia",
+        "grade": 1
+      },
+      {
+        "name": "crocus sativus",
+        "grade": 1
+      },
+      {
+        "name": "croton tiglium",
+        "grade": 1
+      },
+      {
+        "name": "dulcamara",
+        "grade": 1
+      },
+      {
+        "name": "EUPHRASIA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Graphites",
+        "grade": 1
+      },
+      {
+        "name": "Hyoscyamus Niger",
+        "grade": 1
+      },
+      {
+        "name": "Jaborandi",
+        "grade": 1
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Kalium iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      },
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 2
+      },
+      {
+        "name": "Onosmodium",
+        "grade": 2
+      },
+      {
+        "name": "Paris quadrifolia",
+        "grade": 2
+      },
+      {
+        "name": "Physostigma",
+        "grade": 2
+      },
+      {
+        "name": "RUTA",
+        "grade": 3
+      },
+      {
+        "name": "Senega",
+        "grade": 1
+      },
+      {
+        "name": "SPIGELIA ANTHELMIA",
+        "grade": 3
+      },
+      {
+        "name": "Tellurium Metalicum",
+        "grade": 1
+      },
+      {
+        "name": "Viola odorata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FACE",
+    "remedies": [
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "CROTON TIGLIUM",
+        "grade": 3
+      },
+      {
+        "name": "Hyoscyamus Niger",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Phosphoricum",
+        "grade": 2
+      },
+      {
+        "name": "Mezereum",
+        "grade": 2
+      },
+      {
+        "name": "Petroleum",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FACE(RIGHT)",
+    "remedies": [
+      {
+        "name": "causticum",
+        "grade": 1
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FACIAL",
+    "remedies": [
+      {
+        "name": "Magnesium Carbonicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FAUCES",
+    "remedies": [
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "COCCUS CACTI",
+        "grade": 3
+      },
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FEMALE GENERATIVE ORGANS",
+    "remedies": [
+      {
+        "name": "castoreum",
+        "grade": 2
+      },
+      {
+        "name": "Lac Caninum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FEMALE GENITALS",
+    "remedies": [
+      {
+        "name": "Kreosotum",
+        "grade": 2
+      },
+      {
+        "name": "Tilia europaea",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FEMALE ORGANS",
+    "remedies": [
+      {
+        "name": "aloes socotrina",
+        "grade": 1
+      },
+      {
+        "name": "ambra grisea",
+        "grade": 1
+      },
+      {
+        "name": "ammonium muraticum",
+        "grade": 1
+      },
+      {
+        "name": "asarum",
+        "grade": 1
+      },
+      {
+        "name": "Asterias Rubens",
+        "grade": 2
+      },
+      {
+        "name": "CAULOPHYLLUM",
+        "grade": 3
+      },
+      {
+        "name": "CIMICIFUGA",
+        "grade": 3
+      },
+      {
+        "name": "cocculus indicus",
+        "grade": 1
+      },
+      {
+        "name": "crocus sativus",
+        "grade": 2
+      },
+      {
+        "name": "CYCLAMEN EUROPAEM",
+        "grade": 3
+      },
+      {
+        "name": "Dictamnus",
+        "grade": 1
+      },
+      {
+        "name": "HELONIAS DIOICA",
+        "grade": 3
+      },
+      {
+        "name": "LILIUM TIGRINUM",
+        "grade": 3
+      },
+      {
+        "name": "NUX MOSCHATA",
+        "grade": 3
+      },
+      {
+        "name": "PLATINUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "Sanicula",
+        "grade": 2
+      },
+      {
+        "name": "STANNUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Thalaspi Bursa Pastori",
+        "grade": 1
+      },
+      {
+        "name": "VIBURNUM OPULUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "FEMALE ORGANS(RIGHT)",
+    "remedies": [
+      {
+        "name": "aletris farinose",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FEMALE PELVIC ORGANS",
+    "remedies": [
+      {
+        "name": "ONOSMODIUM",
+        "grade": 3
+      },
+      {
+        "name": "SABINA",
+        "grade": 3
+      },
+      {
+        "name": "SEPIA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "FEMALE SEXUAL ORGANS",
+    "remedies": [
+      {
+        "name": "Magnesium Sulphuricum",
+        "grade": 1
+      },
+      {
+        "name": "MUREX",
+        "grade": 3
+      },
+      {
+        "name": "TRILLIUM PENDULUM",
+        "grade": 3
+      },
+      {
+        "name": "Ustilago Maydis",
+        "grade": 2
+      },
+      {
+        "name": "Viscum album",
+        "grade": 2
+      },
+      {
+        "name": "Xanthoxylum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FEMALES",
+    "remedies": [
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "SENECIO AUREUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "FIBROUS",
+    "remedies": [
+      {
+        "name": "colchicum autumnale",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FIBROUS TISSUES",
+    "remedies": [
+      {
+        "name": "FLUORICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "RHODODENDRON",
+        "grade": 3
+      },
+      {
+        "name": "Ruta",
+        "grade": 2
+      },
+      {
+        "name": "Sabina",
+        "grade": 2
+      },
+      {
+        "name": "Spigelia Anthelmia",
+        "grade": 1
+      },
+      {
+        "name": "Staphysagria",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FINGER TIPS",
+    "remedies": [
+      {
+        "name": "Teucrium Marum Verum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FINGERS AND TOES",
+    "remedies": [
+      {
+        "name": "Ranunculus Bulbosus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FISTULAE",
+    "remedies": [
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FLEXOR TENDON",
+    "remedies": [
+      {
+        "name": "Ruta",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "FLEXURES",
+    "remedies": [
+      {
+        "name": "Hepar Sulphuris",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FOREARM",
+    "remedies": [
+      {
+        "name": "Rhododendron",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "FRONT OF THIGHS",
+    "remedies": [
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GALL BLADDER",
+    "remedies": [
+      {
+        "name": "Dioscorea Villosa",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "GALL DUCTS",
+    "remedies": [
+      {
+        "name": "Ammonium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "Gelsemium",
+        "grade": 1
+      },
+      {
+        "name": "Hydrastis Canadensis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GANGLIA",
+    "remedies": [
+      {
+        "name": "Tabacum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GASTRO – INTESTINAL TRACT",
+    "remedies": [
+      {
+        "name": "Gratiola Officinalis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "GENERATIVE SPHERE",
+    "remedies": [
+      {
+        "name": "Tarentula Hispanica",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GENITALS",
+    "remedies": [
+      {
+        "name": "CALADIUM",
+        "grade": 3
+      },
+      {
+        "name": "Cobaltum",
+        "grade": 1
+      },
+      {
+        "name": "Hamamelis",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "Moschus",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Petroleum",
+        "grade": 1
+      },
+      {
+        "name": "Rhododendron",
+        "grade": 2
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      },
+      {
+        "name": "Stramonium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GENITO URINARY ORGANS",
+    "remedies": [
+      {
+        "name": "Pareira brava",
+        "grade": 1
+      },
+      {
+        "name": "Polygonum Sagittatum",
+        "grade": 1
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 1
+      },
+      {
+        "name": "Sarsaparilla",
+        "grade": 1
+      },
+      {
+        "name": "SELENIUM",
+        "grade": 3
+      },
+      {
+        "name": "SENECIO AUREUS",
+        "grade": 3
+      },
+      {
+        "name": "Staphysagria",
+        "grade": 2
+      },
+      {
+        "name": "Urtica Urens",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "GENITO URINARY TRACT",
+    "remedies": [
+      {
+        "name": "EQUISETUM HYEMALE",
+        "grade": 3
+      },
+      {
+        "name": "Erigeron Canadense",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GENITO-URINARY",
+    "remedies": [
+      {
+        "name": "Argentum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "CANNABIS",
+        "grade": 3
+      },
+      {
+        "name": "Coccus Cacti",
+        "grade": 1
+      },
+      {
+        "name": "Copaiva Officinalis",
+        "grade": 2
+      },
+      {
+        "name": "Digitalis Purpurea",
+        "grade": 1
+      },
+      {
+        "name": "THUJA OCCIDENTALIA",
+        "grade": 3
+      },
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GLANDS , CERVICAL",
+    "remedies": [
+      {
+        "name": "Calcarea Carbonica",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GLANDS , MESSENTRIC",
+    "remedies": [
+      {
+        "name": "Calcarea Carbonica",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GLANDS , PYERS",
+    "remedies": [
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "GLANDS",
+    "remedies": [
+      {
+        "name": "Aethusa Cynapium",
+        "grade": 1
+      },
+      {
+        "name": "Arsenicum Iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Arum Metallicum",
+        "grade": 2
+      },
+      {
+        "name": "BARYTA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "Bromium",
+        "grade": 2
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "grade": 2
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "CALCAREA PHOSPHORICA",
+        "grade": 3
+      },
+      {
+        "name": "Calcarea Sulphurica",
+        "grade": 2
+      },
+      {
+        "name": "Astacus Fluviatilis",
+        "grade": 1
+      },
+      {
+        "name": "Carbo Animalis",
+        "grade": 2
+      },
+      {
+        "name": "Chimaphila",
+        "grade": 1
+      },
+      {
+        "name": "Chloralum Hydratum",
+        "grade": 1
+      },
+      {
+        "name": "CISTUS CANADENSIS",
+        "grade": 3
+      },
+      {
+        "name": "CLEMATIS ERECTA",
+        "grade": 3
+      },
+      {
+        "name": "CONIUM MACULATUM",
+        "grade": 3
+      },
+      {
+        "name": "Drosera Rotundifolia",
+        "grade": 1
+      },
+      {
+        "name": "Graphites",
+        "grade": 1
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 2
+      },
+      {
+        "name": "HEPAR SULPHURIS",
+        "grade": 3
+      },
+      {
+        "name": "IODUM",
+        "grade": 3
+      },
+      {
+        "name": "IRIS VERSICOLOR",
+        "grade": 3
+      },
+      {
+        "name": "JABORANDI",
+        "grade": 3
+      },
+      {
+        "name": "Kalium iodatum",
+        "grade": 2
+      },
+      {
+        "name": "Kalium Sulphuricum",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "Mercurius Cyanatus",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Iodatus Flavus",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius Iodatus Ruber",
+        "grade": 2
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      },
+      {
+        "name": "NITRIC ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "RHUS TOXICODENDRON",
+        "grade": 3
+      },
+      {
+        "name": "SILICEA TERRA",
+        "grade": 3
+      },
+      {
+        "name": "Spongia Tosta",
+        "grade": 1
+      },
+      {
+        "name": "Staphysagria",
+        "grade": 2
+      },
+      {
+        "name": "Sulphur",
+        "grade": 1
+      },
+      {
+        "name": "Sulphur Iodatum",
+        "grade": 1
+      },
+      {
+        "name": "TABACUM",
+        "grade": 3
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 2
+      },
+      {
+        "name": "Tuberculinum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "GREAT TOES",
+    "remedies": [
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GROIN",
+    "remedies": [
+      {
+        "name": "Bufo Rana",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GULLET (OESOPHAGUS)",
+    "remedies": [
+      {
+        "name": "Asafoetida",
+        "grade": 2
+      },
+      {
+        "name": "Laurocerasus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "GUMS",
+    "remedies": [
+      {
+        "name": "Echinacea angustifolia",
+        "grade": 1
+      },
+      {
+        "name": "Kreosotum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "HAIR",
+    "remedies": [
+      {
+        "name": "Ustilago Maydis",
+        "grade": 1
+      },
+      {
+        "name": "Vinca Minor",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "HAND DORSUM",
+    "remedies": [
+      {
+        "name": "Natrium Carbonicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "HEAD (FOREHEAD)",
+    "remedies": [
+      {
+        "name": "GLONONIUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "HEAD (LEFT)",
+    "remedies": [
+      {
+        "name": "Lac Defloratum",
+        "grade": 2
+      },
+      {
+        "name": "Theridion",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "HEAD",
+    "remedies": [
+      {
+        "name": "aloes socotrina",
+        "grade": 1
+      },
+      {
+        "name": "AMYLENUM NITROSUM",
+        "grade": 3
+      },
+      {
+        "name": "BRYONIA ALBA",
+        "grade": 3
+      },
+      {
+        "name": "chionanthus",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "MELLILOTUS ALBA",
+        "grade": 3
+      },
+      {
+        "name": "Mezereum",
+        "grade": 2
+      },
+      {
+        "name": "Paris quadrifolia",
+        "grade": 2
+      },
+      {
+        "name": "Sanguinaria Canadensis",
+        "grade": 2
+      },
+      {
+        "name": "Tuberculinum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "HEAD(RIGHT)",
+    "remedies": [
+      {
+        "name": "cactus grandiflora",
+        "grade": 1
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "HEART (MITRAL VALVE)",
+    "remedies": [
+      {
+        "name": "NAJA TRIPUDIANS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "HEART (MUSCLE)",
+    "remedies": [
+      {
+        "name": "CACTUS GRANDIFLORA",
+        "grade": 3
+      },
+      {
+        "name": "digitalis purpurea",
+        "grade": 1
+      },
+      {
+        "name": "KALI CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "HEART (RIGHT)",
+    "remedies": [
+      {
+        "name": "arum metallicum",
+        "grade": 2
+      },
+      {
+        "name": "LILIUM TIGRINUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "HEART VALVES",
+    "remedies": [
+      {
+        "name": "SPONGIA TOSTA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "HEART",
+    "remedies": [
+      {
+        "name": "ACONITE",
+        "grade": 3
+      },
+      {
+        "name": "ADONIS",
+        "grade": 3
+      },
+      {
+        "name": "agaricus muscarius",
+        "grade": 2
+      },
+      {
+        "name": "AMMONIUM CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "amylenum nitrosum",
+        "grade": 2
+      },
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "apis mellifica",
+        "grade": 1
+      },
+      {
+        "name": "apocynum",
+        "grade": 2
+      },
+      {
+        "name": "arsenicum album",
+        "grade": 2
+      },
+      {
+        "name": "arsenicum iodatum",
+        "grade": 2
+      },
+      {
+        "name": "BARYTA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "benzoicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "BOVISTA",
+        "grade": 3
+      },
+      {
+        "name": "bromium",
+        "grade": 2
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 2
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "CARBO VEGETABILIS",
+        "grade": 3
+      },
+      {
+        "name": "CARBOLICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "chloralum hydratum",
+        "grade": 2
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 2
+      },
+      {
+        "name": "coca",
+        "grade": 1
+      },
+      {
+        "name": "COLCHICUM AUTUMNALE",
+        "grade": 3
+      },
+      {
+        "name": "collinsonia",
+        "grade": 2
+      },
+      {
+        "name": "CRATAEGUS OXYACANTA",
+        "grade": 3
+      },
+      {
+        "name": "crotalus horridus",
+        "grade": 2
+      },
+      {
+        "name": "DIGITALIS PURPUREA",
+        "grade": 3
+      },
+      {
+        "name": "GLONONIUM",
+        "grade": 3
+      },
+      {
+        "name": "Hydrcyanicum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "IODUM",
+        "grade": 3
+      },
+      {
+        "name": "Kalium nitricum",
+        "grade": 1
+      },
+      {
+        "name": "KALMIA LATIFOLIA",
+        "grade": 3
+      },
+      {
+        "name": "Lac Defloratum",
+        "grade": 2
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "LATRODECTUS",
+        "grade": 3
+      },
+      {
+        "name": "Laurocerasus",
+        "grade": 2
+      },
+      {
+        "name": "Lithium Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Lobelia Inflata",
+        "grade": 2
+      },
+      {
+        "name": "LYCOPUS VIRGINICUS",
+        "grade": 3
+      },
+      {
+        "name": "Mercurius Precipitatus Ruber",
+        "grade": 1
+      },
+      {
+        "name": "Myrica Cerifera",
+        "grade": 1
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Oenanthe Crocata",
+        "grade": 1
+      },
+      {
+        "name": "Oxalicum acidum",
+        "grade": 1
+      },
+      {
+        "name": "Pyrogenium",
+        "grade": 2
+      },
+      {
+        "name": "Scoparius genista",
+        "grade": 2
+      },
+      {
+        "name": "SPIGELIA ANTHELMIA",
+        "grade": 3
+      },
+      {
+        "name": "Squilla Maritima",
+        "grade": 2
+      },
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "STROPHANTHUS",
+        "grade": 3
+      },
+      {
+        "name": "Sumbul",
+        "grade": 2
+      },
+      {
+        "name": "TABACUM",
+        "grade": 3
+      },
+      {
+        "name": "TARENTULA HISPANICA",
+        "grade": 3
+      },
+      {
+        "name": "Terebinthinae Oleum",
+        "grade": 1
+      },
+      {
+        "name": "THYROIDINUM",
+        "grade": 3
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      },
+      {
+        "name": "Zincum Iodatum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "HEELS",
+    "remedies": [
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "Manganum",
+        "grade": 1
+      },
+      {
+        "name": "Natrium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Sabina",
+        "grade": 1
+      },
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "HERE AND THERE, IN SINGLE PARTS OR SPOTS",
+    "remedies": [
+      {
+        "name": "Oleum Animale",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "HIPS LEFT",
+    "remedies": [
+      {
+        "name": "Stramonium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "INNER EAR",
+    "remedies": [
+      {
+        "name": "MANGANUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "INTER SCAPULAR",
+    "remedies": [
+      {
+        "name": "Hypericum Perfoliatum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "INTESTINE",
+    "remedies": [
+      {
+        "name": "bismuthum",
+        "grade": 2
+      },
+      {
+        "name": "COLOCYNTHIS",
+        "grade": 3
+      },
+      {
+        "name": "Hydrastis Canadensis",
+        "grade": 2
+      },
+      {
+        "name": "Jalapa",
+        "grade": 1
+      },
+      {
+        "name": "Jatropha",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Sulphuricum",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      },
+      {
+        "name": "Podophyllum Peltatum",
+        "grade": 1
+      },
+      {
+        "name": "Polygonum Sagittatum",
+        "grade": 2
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "JAW UPPER",
+    "remedies": [
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "JAWS",
+    "remedies": [
+      {
+        "name": "Mezereum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "JOINTS",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      },
+      {
+        "name": "Actea spicata",
+        "grade": 1
+      },
+      {
+        "name": "anacardium orientale",
+        "grade": 1
+      },
+      {
+        "name": "argentum metalicum",
+        "grade": 1
+      },
+      {
+        "name": "arum metallicum",
+        "grade": 1
+      },
+      {
+        "name": "bellis perennis",
+        "grade": 1
+      },
+      {
+        "name": "BENZOICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "berberis vulgaris",
+        "grade": 1
+      },
+      {
+        "name": "BRYONIA ALBA",
+        "grade": 3
+      },
+      {
+        "name": "CALCAREA PHOSPHORICA",
+        "grade": 3
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      },
+      {
+        "name": "COLCHICUM AUTUMNALE",
+        "grade": 3
+      },
+      {
+        "name": "drosera rotundifolia",
+        "grade": 1
+      },
+      {
+        "name": "Erigeron Canadense",
+        "grade": 1
+      },
+      {
+        "name": "Formica Rufa",
+        "grade": 2
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "KALI BICHROMICUM",
+        "grade": 3
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 1
+      },
+      {
+        "name": "Lappa Arctium",
+        "grade": 1
+      },
+      {
+        "name": "Manganum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius",
+        "grade": 2
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      },
+      {
+        "name": "Ruta",
+        "grade": 2
+      },
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 1
+      },
+      {
+        "name": "Sulphur",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "JOINTS, SMALL",
+    "remedies": [
+      {
+        "name": "Actea spicata",
+        "grade": 1
+      },
+      {
+        "name": "caulophyllum",
+        "grade": 1
+      },
+      {
+        "name": "colchicum autumnale",
+        "grade": 1
+      },
+      {
+        "name": "LEDUM PALUSTRE",
+        "grade": 3
+      },
+      {
+        "name": "Lithium Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      },
+      {
+        "name": "Rhododendron",
+        "grade": 1
+      },
+      {
+        "name": "Sabina",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "KIDNEYS",
+    "remedies": [
+      {
+        "name": "adonis",
+        "grade": 1
+      },
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "Arum triphyllum",
+        "grade": 2
+      },
+      {
+        "name": "Arum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "benzoicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "BERBERIS VULGARIS",
+        "grade": 3
+      },
+      {
+        "name": "Borax",
+        "grade": 1
+      },
+      {
+        "name": "Bovista",
+        "grade": 1
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 2
+      },
+      {
+        "name": "capsicum Annuum",
+        "grade": 2
+      },
+      {
+        "name": "Chellidonium majus",
+        "grade": 1
+      },
+      {
+        "name": "Chimaphila",
+        "grade": 2
+      },
+      {
+        "name": "Cobaltum",
+        "grade": 1
+      },
+      {
+        "name": "colchicum autumnale",
+        "grade": 2
+      },
+      {
+        "name": "colocynthis",
+        "grade": 2
+      },
+      {
+        "name": "Euonymus",
+        "grade": 1
+      },
+      {
+        "name": "Formica Rufa",
+        "grade": 1
+      },
+      {
+        "name": "Gossypium",
+        "grade": 1
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 1
+      },
+      {
+        "name": "Helonias Dioica",
+        "grade": 2
+      },
+      {
+        "name": "Hepar Sulphuris",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Chloricum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium nitricum",
+        "grade": 2
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 1
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Plantago majour",
+        "grade": 1
+      },
+      {
+        "name": "Plumbum Metallicum",
+        "grade": 2
+      },
+      {
+        "name": "Sambucus nigra",
+        "grade": 1
+      },
+      {
+        "name": "Scoparius genista",
+        "grade": 2
+      },
+      {
+        "name": "SOLIDAGO",
+        "grade": 3
+      },
+      {
+        "name": "Squilla Maritima",
+        "grade": 2
+      },
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Strophanthus",
+        "grade": 1
+      },
+      {
+        "name": "TEREBINTHINAE OLEUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "KNEES",
+    "remedies": [
+      {
+        "name": "Chellidonium majus",
+        "grade": 1
+      },
+      {
+        "name": "Gelsemium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LACHRYMAL GLANDS",
+    "remedies": [
+      {
+        "name": "Sabadilla",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "LARYNX",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      },
+      {
+        "name": "allium cepa",
+        "grade": 2
+      },
+      {
+        "name": "ARGENTUM METALICUM",
+        "grade": 3
+      },
+      {
+        "name": "Arum triphyllum",
+        "grade": 2
+      },
+      {
+        "name": "BROMIUM",
+        "grade": 3
+      },
+      {
+        "name": "CAUSTICUM",
+        "grade": 3
+      },
+      {
+        "name": "coccus cacti",
+        "grade": 2
+      },
+      {
+        "name": "drosera rotundifolia",
+        "grade": 2
+      },
+      {
+        "name": "IODUM",
+        "grade": 3
+      },
+      {
+        "name": "Kali Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "Manganum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius Cyanatus",
+        "grade": 2
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 2
+      },
+      {
+        "name": "SELENIUM",
+        "grade": 3
+      },
+      {
+        "name": "Spongia Tosta",
+        "grade": 1
+      },
+      {
+        "name": "Tuberculinum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LEFT SIDE",
+    "remedies": [
+      {
+        "name": "argentum nitricum",
+        "grade": 2
+      },
+      {
+        "name": "arsenicum iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Asafoetida",
+        "grade": 1
+      },
+      {
+        "name": "Asterias Rubens",
+        "grade": 1
+      },
+      {
+        "name": "Baptisia",
+        "grade": 1
+      },
+      {
+        "name": "bellis perennis",
+        "grade": 1
+      },
+      {
+        "name": "benzoicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "Calcarea fluorica",
+        "grade": 2
+      },
+      {
+        "name": "chamomila",
+        "grade": 1
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      },
+      {
+        "name": "cina",
+        "grade": 1
+      },
+      {
+        "name": "coccus cacti",
+        "grade": 1
+      },
+      {
+        "name": "colocynthis",
+        "grade": 1
+      },
+      {
+        "name": "daphne indica",
+        "grade": 1
+      },
+      {
+        "name": "echinacea angustifolia",
+        "grade": 1
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "Lilium Tigrinum",
+        "grade": 2
+      },
+      {
+        "name": "Lycopus Virginicus",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Iodatus Ruber",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      },
+      {
+        "name": "Oxalicum acidum",
+        "grade": 1
+      },
+      {
+        "name": "Pareira brava",
+        "grade": 1
+      },
+      {
+        "name": "Physostigma",
+        "grade": 1
+      },
+      {
+        "name": "Ranunculus Bulbosus",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      },
+      {
+        "name": "Scoparius genista",
+        "grade": 1
+      },
+      {
+        "name": "Senega",
+        "grade": 1
+      },
+      {
+        "name": "SPIGELIA ANTHELMIA",
+        "grade": 3
+      },
+      {
+        "name": "Sulphuricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Sumbul",
+        "grade": 1
+      },
+      {
+        "name": "Theridion",
+        "grade": 1
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 1
+      },
+      {
+        "name": "Verbascum",
+        "grade": 1
+      },
+      {
+        "name": "Viburnum Opulus",
+        "grade": 1
+      },
+      {
+        "name": "Xanthoxylum",
+        "grade": 1
+      },
+      {
+        "name": "Zincum Chromate",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LEFT SIDE,OVARY",
+    "remedies": [
+      {
+        "name": "argentum metalicum",
+        "grade": 1
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      },
+      {
+        "name": "Naja Tripudians",
+        "grade": 2
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LEFT TO RIGHT SIDE",
+    "remedies": [
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LEFT TO RIGHT",
+    "remedies": [
+      {
+        "name": "allium cepa",
+        "grade": 1
+      },
+      {
+        "name": "Euonymus",
+        "grade": 1
+      },
+      {
+        "name": "Lachesis Mutus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "LIDS",
+    "remedies": [
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "LIGAMENTS",
+    "remedies": [
+      {
+        "name": "colchicum autumnale",
+        "grade": 2
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "LIMBS",
+    "remedies": [
+      {
+        "name": "causticum",
+        "grade": 1
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 1
+      },
+      {
+        "name": "Hamamelis",
+        "grade": 1
+      },
+      {
+        "name": "Secale Cornutum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LIVER (RIGHT )",
+    "remedies": [
+      {
+        "name": "Carduus marianus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "LIVER",
+    "remedies": [
+      {
+        "name": "aesculus hippocastanum",
+        "grade": 2
+      },
+      {
+        "name": "aethusa cynapium",
+        "grade": 1
+      },
+      {
+        "name": "aloes socotrina",
+        "grade": 2
+      },
+      {
+        "name": "ammonium muraticum",
+        "grade": 2
+      },
+      {
+        "name": "arum metallicum",
+        "grade": 1
+      },
+      {
+        "name": "berberis vulgaris",
+        "grade": 2
+      },
+      {
+        "name": "Bryonia alba",
+        "grade": 2
+      },
+      {
+        "name": "Calendula officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Astacus fluviatilis",
+        "grade": 2
+      },
+      {
+        "name": "chamomila",
+        "grade": 1
+      },
+      {
+        "name": "Chimaphila",
+        "grade": 1
+      },
+      {
+        "name": "china officinalis",
+        "grade": 2
+      },
+      {
+        "name": "CHIONANTHUS",
+        "grade": 3
+      },
+      {
+        "name": "chloralum hydratum",
+        "grade": 1
+      },
+      {
+        "name": "collinsonia",
+        "grade": 1
+      },
+      {
+        "name": "Cornus circinate",
+        "grade": 2
+      },
+      {
+        "name": "crotalus horridus",
+        "grade": 2
+      },
+      {
+        "name": "digitalis purpurea",
+        "grade": 2
+      },
+      {
+        "name": "epiphegus virginiana",
+        "grade": 1
+      },
+      {
+        "name": "Euonymus",
+        "grade": 2
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 2
+      },
+      {
+        "name": "Formica Rufa",
+        "grade": 1
+      },
+      {
+        "name": "Gambogia",
+        "grade": 1
+      },
+      {
+        "name": "Hamamelis",
+        "grade": 2
+      },
+      {
+        "name": "IRIS VERSICOLOR",
+        "grade": 3
+      },
+      {
+        "name": "Lappa Arctium",
+        "grade": 1
+      },
+      {
+        "name": "Leptandra",
+        "grade": 2
+      },
+      {
+        "name": "Magnesium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "MAGNESIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Mercurius",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 2
+      },
+      {
+        "name": "Myrica Cerifera",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "NATRIUM SULPHURICUM",
+        "grade": 3
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 2
+      },
+      {
+        "name": "NUX VOMICA",
+        "grade": 3
+      },
+      {
+        "name": "Oleum Jecoris",
+        "grade": 1
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      },
+      {
+        "name": "Podophyllum Peltatum",
+        "grade": 1
+      },
+      {
+        "name": "Rheum",
+        "grade": 1
+      },
+      {
+        "name": "SANGUINARIA CANADENSIS",
+        "grade": 3
+      },
+      {
+        "name": "Selenium",
+        "grade": 1
+      },
+      {
+        "name": "Taraxacum",
+        "grade": 2
+      },
+      {
+        "name": "Urtica Urens",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LOINS",
+    "remedies": [
+      {
+        "name": "DULCAMARA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "LOWER LIMBS",
+    "remedies": [
+      {
+        "name": "alumina",
+        "grade": 1
+      },
+      {
+        "name": "caulophyllum",
+        "grade": 2
+      },
+      {
+        "name": "MANGANUM",
+        "grade": 3
+      },
+      {
+        "name": "Rhododendron",
+        "grade": 1
+      },
+      {
+        "name": "Solidago",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUMBAR (SPINE)",
+    "remedies": [
+      {
+        "name": "Cobaltum",
+        "grade": 2
+      },
+      {
+        "name": "Senecio Aureus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUMBAR REGION (HIPS)",
+    "remedies": [
+      {
+        "name": "BERBERIS VULGARIS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "LUMBAR REGION",
+    "remedies": [
+      {
+        "name": "agaricus muscarius",
+        "grade": 2
+      },
+      {
+        "name": "aloes socotrina",
+        "grade": 2
+      },
+      {
+        "name": "alumina",
+        "grade": 1
+      },
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "cocculus indicus",
+        "grade": 2
+      },
+      {
+        "name": "KALI CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "LUMBO – SACRAL",
+    "remedies": [
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNG (LEFT)",
+    "remedies": [
+      {
+        "name": "Oxalicum acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNG , RIGHT",
+    "remedies": [
+      {
+        "name": "calcarea carbonica",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNGS (RIGHT APEX OR RIGHT BASE)",
+    "remedies": [
+      {
+        "name": "Iodum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNGS , UPPER LOBE",
+    "remedies": [
+      {
+        "name": "Kalium iodatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNGS",
+    "remedies": [
+      {
+        "name": "Ammonium Carbonicum",
+        "grade": 3
+      },
+      {
+        "name": "Antimonium Tartaricum",
+        "grade": 3
+      },
+      {
+        "name": "Arsenicum Iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Baryta Carbonica",
+        "grade": 1
+      },
+      {
+        "name": "Carbolicum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Cistus Canadensis",
+        "grade": 1
+      },
+      {
+        "name": "Digitalis Purpurea",
+        "grade": 1
+      },
+      {
+        "name": "Drosera Rotundifolia",
+        "grade": 1
+      },
+      {
+        "name": "FERRUM PHOSPHORICUM",
+        "grade": 3
+      },
+      {
+        "name": "Ipecacuanha",
+        "grade": 1
+      },
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "Lithium Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 2
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      },
+      {
+        "name": "MILLEFOLIUM",
+        "grade": 3
+      },
+      {
+        "name": "Opium",
+        "grade": 2
+      },
+      {
+        "name": "Senecio Aureus",
+        "grade": 1
+      },
+      {
+        "name": "Teucrium Marum Verum",
+        "grade": 2
+      },
+      {
+        "name": "TUBERCULINUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "LUNGS LOWER",
+    "remedies": [
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNGS, RIGHT, LOWER",
+    "remedies": [
+      {
+        "name": "Chellidonium majus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LUNGS,RIGHT APEX",
+    "remedies": [
+      {
+        "name": "arsenicum album",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LYMPHATICS",
+    "remedies": [
+      {
+        "name": "arsenicum album",
+        "grade": 2
+      },
+      {
+        "name": "Bryonia alba",
+        "grade": 1
+      },
+      {
+        "name": "dulcamara",
+        "grade": 1
+      },
+      {
+        "name": "echinacea angustifolia",
+        "grade": 1
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "LYMPHOID TISSUES",
+    "remedies": [
+      {
+        "name": "Radium Bromatum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "MALAR BONES",
+    "remedies": [
+      {
+        "name": "Magnesium Carbonicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MALE BRUNETTES",
+    "remedies": [
+      {
+        "name": "Nux Vomica",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MAMMAE",
+    "remedies": [
+      {
+        "name": "Bromium",
+        "grade": 1
+      },
+      {
+        "name": "clematis erecta",
+        "grade": 1
+      },
+      {
+        "name": "CONIUM MACULATUM",
+        "grade": 3
+      },
+      {
+        "name": "croton tiglium",
+        "grade": 1
+      },
+      {
+        "name": "Iodum",
+        "grade": 1
+      },
+      {
+        "name": "PHYTOLACCA DECANDRA",
+        "grade": 3
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 1
+      },
+      {
+        "name": "URTICA URENS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "MAMMAE (RIGHT)",
+    "remedies": [
+      {
+        "name": "Chimaphila",
+        "grade": 1
+      },
+      {
+        "name": "Phellandrium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MAMMAE(LEFT )",
+    "remedies": [
+      {
+        "name": "cistus canadensis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MARGINS OF OUTLETS",
+    "remedies": [
+      {
+        "name": "NITRIC ACIDUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "MARROW",
+    "remedies": [
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MASTOID",
+    "remedies": [
+      {
+        "name": "capsicum Annuum",
+        "grade": 2
+      },
+      {
+        "name": "Fluoricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Glononium",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "MEDULA",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      },
+      {
+        "name": "Naja tripudians",
+        "grade": 1
+      },
+      {
+        "name": "VERATRUM ALBUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "MEMBRANES",
+    "remedies": [
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 1
+      },
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "MENINGES",
+    "remedies": [
+      {
+        "name": "Hypericum Perfoliatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MESENTRIC",
+    "remedies": [
+      {
+        "name": "Iodum",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Phosphoricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "METABOLISM",
+    "remedies": [
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Variolinum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "MIDDLE EAR",
+    "remedies": [
+      {
+        "name": "Kalium Muraticum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MIND",
+    "remedies": [
+      {
+        "name": "ACONITE",
+        "grade": 3
+      },
+      {
+        "name": "AGNUS CASTUS",
+        "grade": 3
+      },
+      {
+        "name": "ailanthus",
+        "grade": 2
+      },
+      {
+        "name": "ambra grisea",
+        "grade": 2
+      },
+      {
+        "name": "ANACARDIUM ORIENTALE",
+        "grade": 3
+      },
+      {
+        "name": "ANTIMONIUM CRUDUM",
+        "grade": 3
+      },
+      {
+        "name": "ARGENTUM NITRICUM",
+        "grade": 3
+      },
+      {
+        "name": "ARSENICUM ALBUM",
+        "grade": 3
+      },
+      {
+        "name": "Asafoetida",
+        "grade": 1
+      },
+      {
+        "name": "ARUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Baptisia",
+        "grade": 2
+      },
+      {
+        "name": "BARYTA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "CANNABIS",
+        "grade": 3
+      },
+      {
+        "name": "CHAMOMILA",
+        "grade": 3
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 2
+      },
+      {
+        "name": "CROCUS SATIVUS",
+        "grade": 3
+      },
+      {
+        "name": "Graphites",
+        "grade": 2
+      },
+      {
+        "name": "Gratiola Officinalis",
+        "grade": 1
+      },
+      {
+        "name": "HELLEBORUS NIGER",
+        "grade": 3
+      },
+      {
+        "name": "Helonias Dioica",
+        "grade": 2
+      },
+      {
+        "name": "HYOSCYAMUS NIGER",
+        "grade": 3
+      },
+      {
+        "name": "IGNATIA AMARA",
+        "grade": 3
+      },
+      {
+        "name": "KALI BROMATUM",
+        "grade": 3
+      },
+      {
+        "name": "Lachesis Mutus",
+        "grade": 2
+      },
+      {
+        "name": "LAUROCERASUS",
+        "grade": 3
+      },
+      {
+        "name": "Mancinella",
+        "grade": 1
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 2
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Nux Moschata",
+        "grade": 2
+      },
+      {
+        "name": "OPIUM",
+        "grade": 3
+      },
+      {
+        "name": "Palladium",
+        "grade": 1
+      },
+      {
+        "name": "PHOSPHORICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 2
+      },
+      {
+        "name": "Tuberculinum",
+        "grade": 2
+      },
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "MOTOR APPARATUS",
+    "remedies": [
+      {
+        "name": "Bryonia alba",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "MOUTH",
+    "remedies": [
+      {
+        "name": "Arum triphyllum",
+        "grade": 1
+      },
+      {
+        "name": "Belladona",
+        "grade": 2
+      },
+      {
+        "name": "BORAX",
+        "grade": 3
+      },
+      {
+        "name": "Kalium Chloricum",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS CYANATUS",
+        "grade": 3
+      },
+      {
+        "name": "Mezereum",
+        "grade": 1
+      },
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MUCOUS",
+    "remedies": [
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "SENEGA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "MUCOUS GLANDS",
+    "remedies": [
+      {
+        "name": "COPAIVA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "HYDRASTIS CANADENSIS",
+        "grade": 3
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Phosphoricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MUCOUS MEMBRANES",
+    "remedies": [
+      {
+        "name": "aesculus hippocastanum",
+        "grade": 1
+      },
+      {
+        "name": "alumina",
+        "grade": 1
+      },
+      {
+        "name": "argentum metalicum",
+        "grade": 1
+      },
+      {
+        "name": "ARGENTUM NITRICUM",
+        "grade": 3
+      },
+      {
+        "name": "ARSENICUM ALBUM",
+        "grade": 3
+      },
+      {
+        "name": "ALLIUM CEPA",
+        "grade": 3
+      },
+      {
+        "name": "AMMONIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "ANTIMONIUM TARTARICUM",
+        "grade": 3
+      },
+      {
+        "name": "aralia racemosa",
+        "grade": 1
+      },
+      {
+        "name": "ARSENICUM IODATUM",
+        "grade": 3
+      },
+      {
+        "name": "Arum triphyllum",
+        "grade": 2
+      },
+      {
+        "name": "Asarum",
+        "grade": 2
+      },
+      {
+        "name": "Baptisia",
+        "grade": 1
+      },
+      {
+        "name": "Belladona",
+        "grade": 2
+      },
+      {
+        "name": "BORAX",
+        "grade": 3
+      },
+      {
+        "name": "Caladium",
+        "grade": 1
+      },
+      {
+        "name": "calcarea sulphurica",
+        "grade": 2
+      },
+      {
+        "name": "CANTHARIS VESICATORIA",
+        "grade": 3
+      },
+      {
+        "name": "CAPSICUM ANNUUM",
+        "grade": 3
+      },
+      {
+        "name": "CARBO VEGETABILIS",
+        "grade": 3
+      },
+      {
+        "name": "CARBOLICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "chamomila",
+        "grade": 2
+      },
+      {
+        "name": "Chellidonium majus",
+        "grade": 2
+      },
+      {
+        "name": "chloralum hydratum",
+        "grade": 2
+      },
+      {
+        "name": "cina",
+        "grade": 1
+      },
+      {
+        "name": "CLEMATIS ERECTA",
+        "grade": 3
+      },
+      {
+        "name": "COCCUS CACTI",
+        "grade": 3
+      },
+      {
+        "name": "CORALLIUM RUBRUM",
+        "grade": 3
+      },
+      {
+        "name": "CROTON TIGLIUM",
+        "grade": 3
+      },
+      {
+        "name": "cubeba officinalis",
+        "grade": 2
+      },
+      {
+        "name": "DULCAMARA",
+        "grade": 3
+      },
+      {
+        "name": "Eucalyptus",
+        "grade": 2
+      },
+      {
+        "name": "Euphorbium",
+        "grade": 2
+      },
+      {
+        "name": "EUPHRASIA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Graphites",
+        "grade": 1
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 2
+      },
+      {
+        "name": "IODUM",
+        "grade": 3
+      },
+      {
+        "name": "IPECACUANHA",
+        "grade": 3
+      },
+      {
+        "name": "KALI BICHROMICUM",
+        "grade": 3
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "KREOSOTUM",
+        "grade": 3
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS PRECIPITATUS RUBER",
+        "grade": 3
+      },
+      {
+        "name": "Mezereum",
+        "grade": 1
+      },
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "Petroleum",
+        "grade": 1
+      },
+      {
+        "name": "Phellandrium",
+        "grade": 1
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 2
+      },
+      {
+        "name": "SABADILLA",
+        "grade": 3
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 1
+      },
+      {
+        "name": "Sanguinaria Canadensis",
+        "grade": 2
+      },
+      {
+        "name": "SENECIO AUREUS",
+        "grade": 3
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      },
+      {
+        "name": "SQUILLA MARITIMA",
+        "grade": 3
+      },
+      {
+        "name": "STANNUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Sulphur",
+        "grade": 1
+      },
+      {
+        "name": "Syphilinum",
+        "grade": 2
+      },
+      {
+        "name": "Terebinthinae Oleum",
+        "grade": 2
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MUCUS",
+    "remedies": [
+      {
+        "name": "asclepias tuberosa",
+        "grade": 1
+      },
+      {
+        "name": "Mancinella",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MUSCLES",
+    "remedies": [
+      {
+        "name": "anacardium orientale",
+        "grade": 1
+      },
+      {
+        "name": "arnica montana",
+        "grade": 1
+      },
+      {
+        "name": "arsenicum album",
+        "grade": 2
+      },
+      {
+        "name": "asclepias tuberosa",
+        "grade": 1
+      },
+      {
+        "name": "Bryonia alba",
+        "grade": 2
+      },
+      {
+        "name": "caulophyllum",
+        "grade": 2
+      },
+      {
+        "name": "CAUSTICUM",
+        "grade": 3
+      },
+      {
+        "name": "chloralum hydratum",
+        "grade": 1
+      },
+      {
+        "name": "CIMICIFUGA",
+        "grade": 3
+      },
+      {
+        "name": "coca",
+        "grade": 1
+      },
+      {
+        "name": "cocculus indicus",
+        "grade": 1
+      },
+      {
+        "name": "COLCHICUM AUTUMNALE",
+        "grade": 3
+      },
+      {
+        "name": "CONIUM MACULATUM",
+        "grade": 3
+      },
+      {
+        "name": "cuprum metallicum",
+        "grade": 2
+      },
+      {
+        "name": "cuprum arsenicosum",
+        "grade": 1
+      },
+      {
+        "name": "daphne indica",
+        "grade": 1
+      },
+      {
+        "name": "dulcamara",
+        "grade": 2
+      },
+      {
+        "name": "Eucalyptus",
+        "grade": 1
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 2
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 2
+      },
+      {
+        "name": "Helonias Dioica",
+        "grade": 2
+      },
+      {
+        "name": "Hydrastis Canadensis",
+        "grade": 1
+      },
+      {
+        "name": "Hyoscyamus Niger",
+        "grade": 2
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "Latrodectus",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Phosphoricum",
+        "grade": 2
+      },
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "ONOSMODIUM",
+        "grade": 3
+      },
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Physostigma",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 1
+      },
+      {
+        "name": "PLUMBUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Pyrogenium",
+        "grade": 1
+      },
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "Ranunculus Bulbosus",
+        "grade": 2
+      },
+      {
+        "name": "Scoparius genista",
+        "grade": 1
+      },
+      {
+        "name": "Senega",
+        "grade": 1
+      },
+      {
+        "name": "Tilia europaea",
+        "grade": 2
+      },
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Variolinum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MUSCLES OF BILE DUCT",
+    "remedies": [
+      {
+        "name": "Rheum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "MUSCLES OF DUDENUM",
+    "remedies": [
+      {
+        "name": "Rheum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "MUSCLES OF INTESTINES",
+    "remedies": [
+      {
+        "name": "Rheum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NAILS",
+    "remedies": [
+      {
+        "name": "Graphites",
+        "grade": 1
+      },
+      {
+        "name": "Ustilago Maydis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NAPE",
+    "remedies": [
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NASAL CAVITES",
+    "remedies": [
+      {
+        "name": "Hydrastis Canadensis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NASO-PHARYNX",
+    "remedies": [
+      {
+        "name": "aesculus hippocastanum",
+        "grade": 1
+      },
+      {
+        "name": "Cinnabaris",
+        "grade": 3
+      },
+      {
+        "name": "cistus canadensis",
+        "grade": 2
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NAVEL",
+    "remedies": [
+      {
+        "name": "Plumbum Metallicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NECK",
+    "remedies": [
+      {
+        "name": "aethusa cynapium",
+        "grade": 1
+      },
+      {
+        "name": "caulophyllum",
+        "grade": 2
+      },
+      {
+        "name": "Cinnabaris",
+        "grade": 1
+      },
+      {
+        "name": "cistus canadensis",
+        "grade": 2
+      },
+      {
+        "name": "Gelsemium",
+        "grade": 2
+      },
+      {
+        "name": "PHYTOLACCA DECANDRA",
+        "grade": 3
+      },
+      {
+        "name": "Sanicula",
+        "grade": 2
+      },
+      {
+        "name": "Spigelia Anthelmia",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NERVE , EAR",
+    "remedies": [
+      {
+        "name": "Verbascum",
+        "grade": 1
+      },
+      {
+        "name": "Viola odorata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NERVE , ORBITS",
+    "remedies": [
+      {
+        "name": "Verbascum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NERVE CENTRES",
+    "remedies": [
+      {
+        "name": "Belladona",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NERVE SHEATHS",
+    "remedies": [
+      {
+        "name": "Kalium Chloricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NERVES – RESPIRATORY",
+    "remedies": [
+      {
+        "name": "Prunus spinosa",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NERVES (LARGE)",
+    "remedies": [
+      {
+        "name": "COLOCYNTHIS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "NERVES (MOTOR)",
+    "remedies": [
+      {
+        "name": "causticum",
+        "grade": 2
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 2
+      },
+      {
+        "name": "Menyanthes",
+        "grade": 1
+      },
+      {
+        "name": "Oleander",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NERVES (SENSORY)",
+    "remedies": [
+      {
+        "name": "causticum",
+        "grade": 2
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 2
+      },
+      {
+        "name": "MOSCHUS",
+        "grade": 3
+      },
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Platinum Metallicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NERVES , FACIAL",
+    "remedies": [
+      {
+        "name": "Verbascum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NERVES",
+    "remedies": [
+      {
+        "name": "abrotanum",
+        "grade": 1
+      },
+      {
+        "name": "ACONITE",
+        "grade": 3
+      },
+      {
+        "name": "aethusa cynaoium",
+        "grade": 2
+      },
+      {
+        "name": "AGARICUS MUSCARIUS",
+        "grade": 3
+      },
+      {
+        "name": "agnus castus",
+        "grade": 1
+      },
+      {
+        "name": "allium cepa",
+        "grade": 1
+      },
+      {
+        "name": "AMBRA GRISEA",
+        "grade": 3
+      },
+      {
+        "name": "anacardium orientale",
+        "grade": 1
+      },
+      {
+        "name": "apis mellifica",
+        "grade": 2
+      },
+      {
+        "name": "Aranea diadema",
+        "grade": 1
+      },
+      {
+        "name": "ARGENTUM METALICUM",
+        "grade": 3
+      },
+      {
+        "name": "ARGENTUM NITRICUM",
+        "grade": 3
+      },
+      {
+        "name": "arnica montana",
+        "grade": 2
+      },
+      {
+        "name": "arsenicum album",
+        "grade": 2
+      },
+      {
+        "name": "arsenicum iodatum",
+        "grade": 1
+      },
+      {
+        "name": "ASAFOETIDIA",
+        "grade": 3
+      },
+      {
+        "name": "ASARUM",
+        "grade": 3
+      },
+      {
+        "name": "Asterias Rubens",
+        "grade": 2
+      },
+      {
+        "name": "arum metallicum",
+        "grade": 1
+      },
+      {
+        "name": "Baptisia",
+        "grade": 1
+      },
+      {
+        "name": "baryta carbonica",
+        "grade": 1
+      },
+      {
+        "name": "bellis perennis",
+        "grade": 2
+      },
+      {
+        "name": "BORAX",
+        "grade": 3
+      },
+      {
+        "name": "Bryonia alba",
+        "grade": 1
+      },
+      {
+        "name": "CALADIUM",
+        "grade": 3
+      },
+      {
+        "name": "calcarea phosphorica",
+        "grade": 1
+      },
+      {
+        "name": "Cannabis",
+        "grade": 2
+      },
+      {
+        "name": "CASTOREUM",
+        "grade": 3
+      },
+      {
+        "name": "CAULOPHYLLUM",
+        "grade": 3
+      },
+      {
+        "name": "CAUSTICUM",
+        "grade": 3
+      },
+      {
+        "name": "Cedron",
+        "grade": 2
+      },
+      {
+        "name": "CHAMOMILA",
+        "grade": 3
+      },
+      {
+        "name": "china officinalis",
+        "grade": 1
+      },
+      {
+        "name": "CHININUM SULPHURATUM",
+        "grade": 3
+      },
+      {
+        "name": "chloralum hydratum",
+        "grade": 1
+      },
+      {
+        "name": "CICUTA VIROSA",
+        "grade": 3
+      },
+      {
+        "name": "CIMICIFUGA",
+        "grade": 3
+      },
+      {
+        "name": "CINA",
+        "grade": 3
+      },
+      {
+        "name": "COCA",
+        "grade": 3
+      },
+      {
+        "name": "COFFEA CRUDA",
+        "grade": 3
+      },
+      {
+        "name": "CONIUM MACULATUM",
+        "grade": 3
+      },
+      {
+        "name": "CORALLIUM RUBRUM",
+        "grade": 3
+      },
+      {
+        "name": "crataegus oxyacanta",
+        "grade": 1
+      },
+      {
+        "name": "CROCUS SATIVUS",
+        "grade": 3
+      },
+      {
+        "name": "CUPRUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "cuprum arsenicosum",
+        "grade": 1
+      },
+      {
+        "name": "dictamnus",
+        "grade": 1
+      },
+      {
+        "name": "DIOSCOREA VILLOSA",
+        "grade": 3
+      },
+      {
+        "name": "epiphegus virginiana",
+        "grade": 2
+      },
+      {
+        "name": "Fraxinus",
+        "grade": 1
+      },
+      {
+        "name": "GNAPHALIUM",
+        "grade": 3
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 2
+      },
+      {
+        "name": "HEPAR SULPHURIS",
+        "grade": 3
+      },
+      {
+        "name": "Hyoscyamus Niger",
+        "grade": 2
+      },
+      {
+        "name": "Iodum",
+        "grade": 1
+      },
+      {
+        "name": "Ipecacuanha",
+        "grade": 1
+      },
+      {
+        "name": "Iris Versicolor",
+        "grade": 2
+      },
+      {
+        "name": "Jaborandi",
+        "grade": 1
+      },
+      {
+        "name": "JUSTICIA ADHATODA",
+        "grade": 3
+      },
+      {
+        "name": "KALI BROMATUM",
+        "grade": 3
+      },
+      {
+        "name": "kalium phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "KALMIA LATIFOLIA",
+        "grade": 3
+      },
+      {
+        "name": "LAC CANINUM",
+        "grade": 3
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Laurocerasus",
+        "grade": 2
+      },
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "Lilium Tigrinum",
+        "grade": 1
+      },
+      {
+        "name": "Lyssinum",
+        "grade": 2
+      },
+      {
+        "name": "MAGNESIUM CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "MAGNESIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "MAGNESIUM PHOSPHORICUM",
+        "grade": 3
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 2
+      },
+      {
+        "name": "Mephitis",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius Cyanatus",
+        "grade": 1
+      },
+      {
+        "name": "Mezereum",
+        "grade": 1
+      },
+      {
+        "name": "MOSCHUS",
+        "grade": 3
+      },
+      {
+        "name": "MYGALE LASIODORA",
+        "grade": 3
+      },
+      {
+        "name": "NAJA TRIPUDIANS",
+        "grade": 3
+      },
+      {
+        "name": "Natrium Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "NUX MOSCHATA",
+        "grade": 3
+      },
+      {
+        "name": "NUX VOMICA",
+        "grade": 3
+      },
+      {
+        "name": "Oleander",
+        "grade": 2
+      },
+      {
+        "name": "OLEUM ANIMALE",
+        "grade": 3
+      },
+      {
+        "name": "OPIUM",
+        "grade": 3
+      },
+      {
+        "name": "Oxalicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "Phellandrium",
+        "grade": 1
+      },
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Plantago majour",
+        "grade": 2
+      },
+      {
+        "name": "Platinum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "Prunus spinosa",
+        "grade": 2
+      },
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "RANUNCULUS BULBOSUS",
+        "grade": 3
+      },
+      {
+        "name": "Rhododendron",
+        "grade": 2
+      },
+      {
+        "name": "RHUS TOXICODENDRON",
+        "grade": 3
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 2
+      },
+      {
+        "name": "SABADILLA",
+        "grade": 3
+      },
+      {
+        "name": "Sabina",
+        "grade": 2
+      },
+      {
+        "name": "Secale Cornutum",
+        "grade": 1
+      },
+      {
+        "name": "Selenium",
+        "grade": 2
+      },
+      {
+        "name": "Sepia",
+        "grade": 2
+      },
+      {
+        "name": "SILICEA TERRA",
+        "grade": 3
+      },
+      {
+        "name": "SPIGELIA ANTHELMIA",
+        "grade": 3
+      },
+      {
+        "name": "STANNUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "STAPHYSAGRIA",
+        "grade": 3
+      },
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 2
+      },
+      {
+        "name": "Sumbul",
+        "grade": 1
+      },
+      {
+        "name": "Syphilinum",
+        "grade": 2
+      },
+      {
+        "name": "Tabacum",
+        "grade": 2
+      },
+      {
+        "name": "TARENTULA HISPANICA",
+        "grade": 3
+      },
+      {
+        "name": "Tellurium Metalicum",
+        "grade": 1
+      },
+      {
+        "name": "THERIDION",
+        "grade": 3
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 2
+      },
+      {
+        "name": "VALERIANA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "VERATRUM ALBUM",
+        "grade": 3
+      },
+      {
+        "name": "Viburnum Opulus",
+        "grade": 2
+      },
+      {
+        "name": "Viola odorata",
+        "grade": 2
+      },
+      {
+        "name": "Viscum album",
+        "grade": 1
+      },
+      {
+        "name": "Xanthoxylum",
+        "grade": 1
+      },
+      {
+        "name": "Zincum Iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Zincum Valerianate",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NERVES , ZYGOMAE",
+    "remedies": [
+      {
+        "name": "Verbascum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NERVOUS SYSTEM",
+    "remedies": [
+      {
+        "name": "IGNATIA AMARA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "NIPPLES",
+    "remedies": [
+      {
+        "name": "Ratania",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NOSE (ROOT)",
+    "remedies": [
+      {
+        "name": "Ferrum Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 2
+      },
+      {
+        "name": "Zincum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NOSE(BRIDJE)",
+    "remedies": [
+      {
+        "name": "Hepar Sulphuris",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "NOSE",
+    "remedies": [
+      {
+        "name": "ALLIUM CEPA",
+        "grade": 3
+      },
+      {
+        "name": "ARSENICUM IODATUM",
+        "grade": 3
+      },
+      {
+        "name": "Asafoetida",
+        "grade": 1
+      },
+      {
+        "name": "ARUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "camphora officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Comocladia",
+        "grade": 1
+      },
+      {
+        "name": "elaps corallinus",
+        "grade": 1
+      },
+      {
+        "name": "Euphrasia Officinalis",
+        "grade": 2
+      },
+      {
+        "name": "Gelsemium",
+        "grade": 1
+      },
+      {
+        "name": "KALI BICHROMICUM",
+        "grade": 3
+      },
+      {
+        "name": "Kalium iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Millefolium",
+        "grade": 2
+      },
+      {
+        "name": "SABADILLA",
+        "grade": 3
+      },
+      {
+        "name": "Senecio Aureus",
+        "grade": 1
+      },
+      {
+        "name": "Senega",
+        "grade": 1
+      },
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 2
+      },
+      {
+        "name": "TEUCRIUM MARUM VERUM",
+        "grade": 3
+      },
+      {
+        "name": "Zincum Chromate",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "NUTRITION",
+    "remedies": [
+      {
+        "name": "abrotanum",
+        "grade": 1
+      },
+      {
+        "name": "BARYTA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "BORAX",
+        "grade": 3
+      },
+      {
+        "name": "Calcarea hypophosphorica",
+        "grade": 1
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "CALCAREA PHOSPHORICA",
+        "grade": 3
+      },
+      {
+        "name": "CARBO ANIMALIS",
+        "grade": 3
+      },
+      {
+        "name": "GRAPHITES",
+        "grade": 3
+      },
+      {
+        "name": "LAC DEFLORATUM",
+        "grade": 3
+      },
+      {
+        "name": "LYCOPODIUM",
+        "grade": 3
+      },
+      {
+        "name": "NATRIUM MURATICUM",
+        "grade": 3
+      },
+      {
+        "name": "Sanicula",
+        "grade": 2
+      },
+      {
+        "name": "SILICEA TERRA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "NUTRITIVE ORGANS",
+    "remedies": [
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "OCCIPUT (LEFT)",
+    "remedies": [
+      {
+        "name": "Kalium Muraticum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "OCCIPUT",
+    "remedies": [
+      {
+        "name": "aethusa cynapium",
+        "grade": 1
+      },
+      {
+        "name": "AGARICUS MUSCARIUS",
+        "grade": 3
+      },
+      {
+        "name": "aesculus hippocastanum",
+        "grade": 1
+      },
+      {
+        "name": "borax",
+        "grade": 2
+      },
+      {
+        "name": "carbo vegetabilis",
+        "grade": 2
+      },
+      {
+        "name": "Chellidonium majus",
+        "grade": 1
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 2
+      },
+      {
+        "name": "clematis erecta",
+        "grade": 1
+      },
+      {
+        "name": "COCCULUS INDICUS",
+        "grade": 3
+      },
+      {
+        "name": "crotalus horridus",
+        "grade": 1
+      },
+      {
+        "name": "digitalis purpurea",
+        "grade": 1
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 2
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Natrium Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "NATRIUM SULPHURICUM",
+        "grade": 3
+      },
+      {
+        "name": "Onosmodium",
+        "grade": 2
+      },
+      {
+        "name": "PETROLEUM",
+        "grade": 3
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Thuja Occidentalia",
+        "grade": 1
+      },
+      {
+        "name": "Tuberculinum",
+        "grade": 1
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      },
+      {
+        "name": "Zincum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ONE SIDE",
+    "remedies": [
+      {
+        "name": "ambra grisea",
+        "grade": 2
+      },
+      {
+        "name": "cocculus indicus",
+        "grade": 2
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "kalium phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Mezereum",
+        "grade": 1
+      },
+      {
+        "name": "Paris quadrifolia",
+        "grade": 1
+      },
+      {
+        "name": "Pulsatilla",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "ORBITAL",
+    "remedies": [
+      {
+        "name": "Prunus spinosa",
+        "grade": 1
+      },
+      {
+        "name": "Zincum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "ORGANS",
+    "remedies": [
+      {
+        "name": "arsenicum album",
+        "grade": 1
+      },
+      {
+        "name": "Belladona",
+        "grade": 1
+      },
+      {
+        "name": "CANNABIS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "OVARIES",
+    "remedies": [
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "Bromium",
+        "grade": 1
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 2
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      },
+      {
+        "name": "clematis erecta",
+        "grade": 1
+      },
+      {
+        "name": "colocynthis",
+        "grade": 2
+      },
+      {
+        "name": "conium maculatum",
+        "grade": 1
+      },
+      {
+        "name": "Gossypium",
+        "grade": 1
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Lilium Tigrinum",
+        "grade": 1
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 1
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 1
+      },
+      {
+        "name": "Zincum Valerianate",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "OVARY (RIGHT)",
+    "remedies": [
+      {
+        "name": "Palladium",
+        "grade": 2
+      },
+      {
+        "name": "Podophyllum Pelatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PALATE",
+    "remedies": [
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PALMS",
+    "remedies": [
+      {
+        "name": "anacardium orientale",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PANCREAS",
+    "remedies": [
+      {
+        "name": "Iris Versicolor",
+        "grade": 2
+      },
+      {
+        "name": "Natrium Sulphuricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PAROTID",
+    "remedies": [
+      {
+        "name": "Bromium",
+        "grade": 2
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PATELLAE",
+    "remedies": [
+      {
+        "name": "arum metallicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PELVIC ORGANS",
+    "remedies": [
+      {
+        "name": "Magnesium Muraticum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "PELVIS",
+    "remedies": [
+      {
+        "name": "aloes socotrina",
+        "grade": 1
+      },
+      {
+        "name": "collinsonia",
+        "grade": 2
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PENIS",
+    "remedies": [
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PERICARDIUM",
+    "remedies": [
+      {
+        "name": "colchicum autumnale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "PERIOSTEUM",
+    "remedies": [
+      {
+        "name": "argentum nitricum",
+        "grade": 1
+      },
+      {
+        "name": "Asafoetida",
+        "grade": 2
+      },
+      {
+        "name": "Calcarea fluorica",
+        "grade": 1
+      },
+      {
+        "name": "CALCAREA PHOSPHORICA",
+        "grade": 3
+      },
+      {
+        "name": "Kalium iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Ledum Palustre",
+        "grade": 1
+      },
+      {
+        "name": "Manganum",
+        "grade": 2
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "Ruta",
+        "grade": 2
+      },
+      {
+        "name": "SYMPHYTUM OFFICINALE",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "THERMALS CHILLY",
+    "remedies": [
+      { "name": "Abrotanum", "grade": 1 },
+      { "name": "Acetic acid", "grade": 1 },
+      { "name": "Aconite", "grade": 2 },
+      { "name": "Agaricus muscarius", "grade": 2 },
+      { "name": "Agnus castus", "grade": 2 },
+      { "name": "Alumina", "grade": 2 },
+      { "name": "Alumina silicata", "grade": 2 },
+      { "name": "Ammonium carbonicum", "grade": 2 },
+      { "name": "Apocynum", "grade": 2 },
+      { "name": "Argentum metallicum", "grade": 2 },
+      { "name": "ARSENICUM ALBUM", "grade": 3 },
+      { "name": "Arsenicum sulphuratum flavum", "grade": 1 },
+      { "name": "Asarum", "grade": 2 },
+      { "name": "Aurum metallicum", "grade": 2 },
+      { "name": "Aurum arsenicosum", "grade": 1 },
+      { "name": "Aurum sulphuratum", "grade": 1 },
+      { "name": "Badiaga", "grade": 2 },
+      { "name": "BARYTA CARBONICA", "grade": 3 },
+      { "name": "Baryta muriatica", "grade": 1 },
+      { "name": "Belladonna", "grade": 2 },
+      { "name": "Benzoicum Acidum", "grade": 2 },
+      { "name": "Borax", "grade": 2 },
+      { "name": "Bromium", "grade": 2 },
+      { "name": "Cadmium sulphuratum", "grade": 2 },
+      { "name": "Calcarea arsenicosa", "grade": 1 },
+      { "name": "CALCAREA CARBONICA", "grade": 3 },
+      { "name": "Calcarea fluorica", "grade": 1 },
+      { "name": "CALCAREA PHOSPHORICA", "grade": 3 },
+      { "name": "Calcarea silicata", "grade": 1 },
+      { "name": "Camphora", "grade": 2 },
+      { "name": "Cantharis", "grade": 2 },
+      { "name": "CAPSICUM ANNUUM", "grade": 3 },
+      { "name": "Carbo animalis", "grade": 2 },
+      { "name": "Carbo vegetabilis", "grade": 2 },
+      { "name": "Carbo sulphuratum", "grade": 1 },
+      { "name": "carduus marianus", "grade": 1 },
+      { "name": "CAULOPHYLLUM", "grade": 1 },
+      { "name": "CAUSTICUM", "grade": 3 },
+      { "name": "Chamomilla", "grade": 2 },
+      { "name": "Chelidonium majus", "grade": 2 },
+      { "name": "CHINA OFFICINALIS", "grade": 3 },
+      { "name": "China arsenicosa", "grade": 1 },
+      { "name": "Cimicifuga", "grade": 1 },
+      { "name": "Cistus canadensis", "grade": 1 },
+      { "name": "Coccus cacti", "grade": 1 },
+      { "name": "Coffea cruda", "grade": 1 },
+      { "name": "Colchicum autumnale", "grade": 1 },
+      { "name": "Conium maculatum", "grade": 1 },
+      { "name": "Cyclamen europaeum", "grade": 1 },
+      { "name": "DULCAMARA", "grade": 3 },
+      { "name": "Euphrasia officinalis", "grade": 2 },
+      { "name": "FERRUM METALLICUM", "grade": 3 },
+      { "name": "Ferrum arsenicosum", "grade": 1 },
+      { "name": "Formica rufa", "grade": 2 },
+      { "name": "GRAPHITES", "grade": 3 },
+      { "name": "Guaiacum Officinale", "grade": 1 },
+      { "name": "Helleborus niger", "grade": 1 },
+      { "name": "Helonias dioica", "grade": 2 },
+      { "name": "HEPAR SULPHURIS CALCAREUM", "grade": 3 },
+      { "name": "Hyoscyamus niger", "grade": 2 },
+      { "name": "HYPERICUM PERFORATUM", "grade": 3 },
+      { "name": "Ignatia amara", "grade": 2 },
+      { "name": "KALIUM ARSENICOSUM", "grade": 3 },
+      { "name": "Kalium bichromicum", "grade": 1 },
+      { "name": "KALIUM CARBONICUM", "grade": 3 },
+      { "name": "Kalium chloricum", "grade": 2 },
+      { "name": "Kalium phosphoricum", "grade": 1 },
+      { "name": "Kalium silicatum", "grade": 1 },
+      { "name": "Kalmia latifolia", "grade": 1 },
+      { "name": "Kreosotum", "grade": 1 },
+      { "name": "Lac defloratum", "grade": 1 },
+      { "name": "MAGNESIA CARBONICA", "grade": 3 },
+      { "name": "MAGNESIA PHOSPHORICA", "grade": 3 },
+      { "name": "Manganum", "grade": 2 },
+      { "name": "MOSCHUS", "grade": 3 },
+      { "name": "Muriatic acid", "grade": 1 },
+      { "name": "Natrium arsenicosum", "grade": 1 },
+      { "name": "Natrium carbonicum", "grade": 1 },
+      { "name": "NITRIC ACID", "grade": 3 },
+      { "name": "Nux moschata", "grade": 2 },
+      { "name": "NUX VOMICA", "grade": 3 },
+      { "name": "Oxalic acid", "grade": 1 },
+      { "name": "Petroleum", "grade": 2 },
+      { "name": "PHOSPHORUS", "grade": 3 },
+      { "name": "Phosphoric acid", "grade": 2 },
+      { "name": "Plumbum metallicum", "grade": 1 },
+      { "name": "Podophyllum peltatum", "grade": 2 },
+      { "name": "PSORINUM", "grade": 3 },
+      { "name": "PYROGENIUM", "grade": 3 },
+      { "name": "RANUNCULUS BULBOSUS", "grade": 3 },
+      { "name": "Rheum", "grade": 1 },
+      { "name": "Rhododendron chrysanthum", "grade": 2 },
+      { "name": "RHUS TOXICODENDRON", "grade": 3 },
+      { "name": "RUMEX CRISPUS", "grade": 3 },
+      { "name": "Ruta graveolens", "grade": 2 },
+      { "name": "SABADILLA", "grade": 3 },
+      { "name": "Sarsaparilla", "grade": 2 },
+      { "name": "SEPIA OFFICINALIS", "grade": 3 },
+      { "name": "SILICEA TERRA", "grade": 3 },
+      { "name": "SPIGELIA ANTHELMIA", "grade": 3 },
+      { "name": "Stannum metallicum", "grade": 1 },
+      { "name": "Staphysagria", "grade": 1 },
+      { "name": "Stramonium", "grade": 1 },
+      { "name": "STRONTIUM CARBONICUM", "grade": 3 },
+      { "name": "Sulphuric acid", "grade": 1 },
+      { "name": "Theridion curassavicum", "grade": 1 },
+      { "name": "Valeriana officinalis", "grade": 1 },
+      { "name": "Viola tricolor", "grade": 1 },
+      { "name": "Zincum metallicum", "grade": 1 }
+    ]
+  },
+  {
+    "topic": "THERMALS HOT",
+    "remedies": [
+      { "name": "Aesculus-hippocastanum", "grade": 2 },
+      { "name": "Allium-cepa", "grade": 2 },
+      { "name": "Aloe socitrina", "grade": 2 },
+      { "name": "Ambra griesa", "grade": 2 },
+      { "name": "APIS MELLIFICA", "grade": 3 },
+      { "name": "ARGENTUM-NITRICUM", "grade": 3 },
+      { "name": "Asafoetida", "grade": 2 },
+      { "name": "Aurum - iodatum", "grade": 2 },
+      
+      { "name": "Aurum-muraticum", "grade": 2 },
+      { "name": "Baryta-iod", "grade": 2 },
+      { "name": "Bryonia alba", "grade": 2 },
+      {"name":"NATRIUM MURATICUM","grade":3},
+      { "name": "Caladium", "grade": 2 },
+      { "name": "Calcarea-iodatum", "grade": 2 },
+      { "name": "Calcarea-sulphuricum", "grade": 2 },
+      { "name": "cocculus indicus", "grade": 2 },
+      { "name": "Comocladia", "grade": 2 },
+      { "name": "Crocus sativus", "grade": 2 },
+      { "name": "Drosera", "grade": 2 },
+      { "name": "Ferrum iodatum", "grade": 2 },
+      { "name": "FLUORICUM ACIDUM", "grade": 3 },
+      { "name": "GRATIOLA OFFICINALIS", "grade": 2 },
+      { "name": "Hamamelis", "grade": 2 },
+      { "name": "IODATUM", "grade": 3 },
+      { "name": "KALIUM-IODATUM", "grade": 3 },
+      { "name": "KALIUM-SULPHURICUM", "grade": 3 },
+      { "name": "Lachies", "grade": 2 },
+      { "name": "Ledum Palustre", "grade": 2 },
+      { "name": "Lililum-tigrinum", "grade": 2 },
+      { "name": "Lycopodium", "grade": 2 },
+      { "name": "NATRIUM-MURATICUM", "grade": 3 },
+      { "name": "NATRIUM-SULPHURICUM", "grade": 3 },
+      { "name": "Niccol", "grade": 2 },
+      { "name": "Opium", "grade": 2 },
+      { "name": "Picric acidum", "grade": 2 },
+      { "name": "PLATINA", "grade": 3 },
+      { "name": "PTELEA TRIFOLIATA", "grade": 2 },
+      { "name": "PULSATAILA", "grade": 3 },
+      { "name": "SABINA", "grade": 3 },
+      { "name": "SECALE CORNUTUM", "grade": 3 },
+      { "name": "Spongia Tosta", "grade": 2 },
+      { "name": "Sulphur", "grade": 2 },
+      { "name": "Sulphur-iodatum", "grade": 2 },
+      { "name": "THUJA OCCIDENTALIA", "grade": 2 },
+      { "name": "Tuberculinum", "grade": 2 },
+      { "name": "(Rabe)", "grade": 2 },
+      { "name": "Ustilago", "grade": 2 },
+      { "name": "Vespa", "grade": 2 },
+      { "name": "Viburnum opulus", "grade": 2 }
+    ]
+  },
+  {
+    "topic": "PERISTALSIS",
+    "remedies": [
+      {
+        "name": "agaricus muscarius",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PHARYNX",
+    "remedies": [
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 1
+      },
+      {
+        "name": "collinsonia",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "PLEURA",
+    "remedies": [
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PNEUMOGASTRIC NERVE",
+    "remedies": [
+      {
+        "name": "ambra grisea",
+        "grade": 1
+      },
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "Grindelia robusta",
+        "grade": 1
+      },
+      {
+        "name": "Ipecacuanha",
+        "grade": 2
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Oleum Animale",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "POMUM ADAMI",
+    "remedies": [
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "PORTAL SYSTEM",
+    "remedies": [
+      {
+        "name": "Chellidonium majus",
+        "grade": 2
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 2
+      },
+      {
+        "name": "Sepia",
+        "grade": 2
+      },
+      {
+        "name": "Sulphur",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "PROSTATE",
+    "remedies": [
+      {
+        "name": "baryta carbonica",
+        "grade": 1
+      },
+      {
+        "name": "Chimaphila",
+        "grade": 2
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "RECTUM",
+    "remedies": [
+      {
+        "name": "AESCULUS HIPPOCASTANUM",
+        "grade": 3
+      },
+      {
+        "name": "ALOES SOCOTRINA",
+        "grade": 3
+      },
+      {
+        "name": "ALUMINA",
+        "grade": 3
+      },
+      {
+        "name": "Asterias Rubens",
+        "grade": 1
+      },
+      {
+        "name": "collinsonia",
+        "grade": 2
+      },
+      {
+        "name": "copaiva officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Hamamelis",
+        "grade": 2
+      },
+      {
+        "name": "Kalium Chloricum",
+        "grade": 1
+      },
+      {
+        "name": "Lilium Tigrinum",
+        "grade": 2
+      },
+      {
+        "name": "Magnesium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "MERCURIUS CORROSIVUS",
+        "grade": 3
+      },
+      {
+        "name": "PODOPHYLLUM PELTATUM",
+        "grade": 3
+      },
+      {
+        "name": "Ratania",
+        "grade": 2
+      },
+      {
+        "name": "Sabina",
+        "grade": 1
+      },
+      {
+        "name": "Sanicula",
+        "grade": 2
+      },
+      {
+        "name": "Sulphur",
+        "grade": 2
+      },
+      {
+        "name": "TEUCRIUM MARUM VERUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "RESPIRATION",
+    "remedies": [
+      {
+        "name": "agaricus muscarius",
+        "grade": 1
+      },
+      {
+        "name": "AMMONIUM CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "amylenum nitrosum",
+        "grade": 1
+      },
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "apis mellifica",
+        "grade": 2
+      },
+      {
+        "name": "aralia racemosa",
+        "grade": 1
+      },
+      {
+        "name": "ARSENICUM ALBUM",
+        "grade": 3
+      },
+      {
+        "name": "BROMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Cadmium suphuratum",
+        "grade": 1
+      },
+      {
+        "name": "carbolicum acidum",
+        "grade": 1
+      },
+      {
+        "name": "causticum",
+        "grade": 2
+      },
+      {
+        "name": "coca",
+        "grade": 2
+      },
+      {
+        "name": "conium maculatum",
+        "grade": 1
+      },
+      {
+        "name": "Eucalyptus",
+        "grade": 1
+      },
+      {
+        "name": "Glononium",
+        "grade": 1
+      },
+      {
+        "name": "Grindelia robusta",
+        "grade": 2
+      },
+      {
+        "name": "Hydrcyanicum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Laurocerasus",
+        "grade": 2
+      },
+      {
+        "name": "LOBELIA INFLATA",
+        "grade": 3
+      },
+      {
+        "name": "Moschus",
+        "grade": 2
+      },
+      {
+        "name": "Naja Tripudians",
+        "grade": 2
+      },
+      {
+        "name": "Opium",
+        "grade": 2
+      },
+      {
+        "name": "Psorinum",
+        "grade": 1
+      },
+      {
+        "name": "Pulsatilla",
+        "grade": 1
+      },
+      {
+        "name": "Sambucus nigra",
+        "grade": 1
+      },
+      {
+        "name": "TARENTULA HISPANICA",
+        "grade": 3
+      },
+      {
+        "name": "Terebinthinae Oleum",
+        "grade": 2
+      },
+      {
+        "name": "Xanthoxylum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RESPIRATORTY TRACT",
+    "remedies": [
+      {
+        "name": "Osmium",
+        "grade": 2
+      },
+      {
+        "name": "Verbascum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RESPIRATORY CENTRE",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RESPIRATORY MEMBRANES",
+    "remedies": [
+      {
+        "name": "HEPAR SULPHURIS",
+        "grade": 3
+      },
+      {
+        "name": "Justicia Adhatoda",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RESPIRATORY ORGANS",
+    "remedies": [
+      {
+        "name": "chloralum",
+        "grade": 2
+      },
+      {
+        "name": "CORALLIUM RUBRUM",
+        "grade": 3
+      },
+      {
+        "name": "DROSERA ROTUNDIFOLIA",
+        "grade": 3
+      },
+      {
+        "name": "IPECACUANHA",
+        "grade": 3
+      },
+      {
+        "name": "Kalium nitricum",
+        "grade": 2
+      },
+      {
+        "name": "Kalium Sulphuricum",
+        "grade": 1
+      },
+      {
+        "name": "NUX VOMICA",
+        "grade": 3
+      },
+      {
+        "name": "Sambucus nigra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RESPIRATORY SYSTEM",
+    "remedies": [
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RIGHT SCAPULLE",
+    "remedies": [
+      {
+        "name": "Podophyllum Pelatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RIGHT SIDE , LOWER",
+    "remedies": [
+      {
+        "name": "Sarsaparilla",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RIGHT SIDE",
+    "remedies": [
+      {
+        "name": "ammonium carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Aranea diadema",
+        "grade": 1
+      },
+      {
+        "name": "Belladona",
+        "grade": 2
+      },
+      {
+        "name": "Bryonia alba",
+        "grade": 1
+      },
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 1
+      },
+      {
+        "name": "causticum",
+        "grade": 1
+      },
+      {
+        "name": "Chellidonium majus",
+        "grade": 2
+      },
+      {
+        "name": "Comocladia",
+        "grade": 1
+      },
+      {
+        "name": "crotalus horridus",
+        "grade": 2
+      },
+      {
+        "name": "dioscorea villosa",
+        "grade": 1
+      },
+      {
+        "name": "elaps corallinus",
+        "grade": 1
+      },
+      {
+        "name": "Formica Rufa",
+        "grade": 1
+      },
+      {
+        "name": "Gelsemium",
+        "grade": 2
+      },
+      {
+        "name": "Iris Versicolor",
+        "grade": 2
+      },
+      {
+        "name": "Leptandra",
+        "grade": 1
+      },
+      {
+        "name": "LYCOPODIUM",
+        "grade": 3
+      },
+      {
+        "name": "Magnesium Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Iodatus Flavus",
+        "grade": 2
+      },
+      {
+        "name": "Mercurius Precipitatus Ruber",
+        "grade": 1
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Phellandrium",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "Podophyllum Peltatum",
+        "grade": 1
+      },
+      {
+        "name": "Psorinum",
+        "grade": 1
+      },
+      {
+        "name": "Pulsatilla",
+        "grade": 2
+      },
+      {
+        "name": "Ranunculus Scleratus",
+        "grade": 1
+      },
+      {
+        "name": "SANGUINARIA CANADENSIS",
+        "grade": 3
+      },
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Sulphur Iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Tarentula Hispanica",
+        "grade": 1
+      },
+      {
+        "name": "Thyroidinum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "RIGHT SIDE, RIGHT TO LEFT",
+    "remedies": [
+      {
+        "name": "Apis Mellifica",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "RIGHT TO LEFT",
+    "remedies": [
+      {
+        "name": "Lac Caninum",
+        "grade": 2
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 2
+      },
+      {
+        "name": "Tellurium Metalicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "ROOT OF TONGUE",
+    "remedies": [
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SALIVARY",
+    "remedies": [
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "LOC SARCO-ILLAC REGION",
+    "remedies": [
+      {
+        "name": "aesculus hippocastanum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SCALP",
+    "remedies": [
+      {
+        "name": "clematis erecta",
+        "grade": 1
+      },
+      {
+        "name": "Oleander",
+        "grade": 1
+      },
+      {
+        "name": "Petroleum",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      },
+      {
+        "name": "Viola Tricolor",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SCIATIC",
+    "remedies": [
+      {
+        "name": "COLOCYNTHIS",
+        "grade": 3
+      },
+      {
+        "name": "Dioscorea Villosa",
+        "grade": 1
+      },
+      {
+        "name": "GNAPHALIUM",
+        "grade": 3
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SCROTUM",
+    "remedies": [
+      {
+        "name": "CROTON TIGLIUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SEBACEOUS GLANDS",
+    "remedies": [
+      {
+        "name": "Psorinum",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SECRETIONS",
+    "remedies": [
+      {
+        "name": "ASCLEPIAS TUBEROSA",
+        "grade": 3
+      },
+      {
+        "name": "CHINA OFFICINALISNER",
+        "grade": 3
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "Lappa Arctium",
+        "grade": 1
+      },
+      {
+        "name": "Lobelia Inflata",
+        "grade": 2
+      },
+      {
+        "name": "Robinia",
+        "grade": 1
+      },
+      {
+        "name": "TABACUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SENSATIONS",
+    "remedies": [
+      {
+        "name": "Gymnocladus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SENSES",
+    "remedies": [
+      {
+        "name": "OPIUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SENSORIUM",
+    "remedies": [
+      {
+        "name": "COCCULUS INDICUS",
+        "grade": 3
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 1
+      },
+      {
+        "name": "NUX MOSCHATA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SEROUS",
+    "remedies": [
+      {
+        "name": "asclepias tuberosa",
+        "grade": 2
+      },
+      {
+        "name": "colchicum autumnale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SEROUS CAVITIES",
+    "remedies": [
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "arsenicum album",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SEROUS MEMBRANES",
+    "remedies": [
+      {
+        "name": "BRYONIA ALBA",
+        "grade": 3
+      },
+      {
+        "name": "CANTHARIS VESICATORIA",
+        "grade": 3
+      },
+      {
+        "name": "Helleborus Niger",
+        "grade": 2
+      },
+      {
+        "name": "KALI CARBONICUM",
+        "grade": 3
+      },
+      {
+        "name": "Senega",
+        "grade": 2
+      },
+      {
+        "name": "Squilla Maritima",
+        "grade": 2
+      },
+      {
+        "name": "Sulphur",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SEROUS SURFACE",
+    "remedies": [
+      {
+        "name": "Ranunculus Bulbosus",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SEROUS TISSUES",
+    "remedies": [
+      {
+        "name": "Sabina",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SEXUAL ORGANS",
+    "remedies": [
+      {
+        "name": "AGNUS CASTUS",
+        "grade": 3
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 2
+      },
+      {
+        "name": "coffea cruda",
+        "grade": 2
+      },
+      {
+        "name": "conium maculatum",
+        "grade": 2
+      },
+      {
+        "name": "Gratiola Officinalis",
+        "grade": 1
+      },
+      {
+        "name": "Lyssinum",
+        "grade": 1
+      },
+      {
+        "name": "Picricum Acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SEXUAL SYSTEM",
+    "remedies": [
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SHIFTING SIDES",
+    "remedies": [
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SHINS",
+    "remedies": [
+      {
+        "name": "Manganum",
+        "grade": 2
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SHOULDER (right)",
+    "remedies": [
+      {
+        "name": "Kalium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "Sticta Pulmonaria",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SINGLE PARTS",
+    "remedies": [
+      {
+        "name": "Rhododendron",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SINUS (FRONTAL)",
+    "remedies": [
+      {
+        "name": "Kalium iodatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SKIN",
+    "remedies": [
+      {
+        "name": "adonis",
+        "grade": 1
+      },
+      {
+        "name": "ailanthus",
+        "grade": 2
+      },
+      {
+        "name": "alumina",
+        "grade": 1
+      },
+      {
+        "name": "anacardium orientale",
+        "grade": 2
+      },
+      {
+        "name": "ANTIMONIUM CRUDUM",
+        "grade": 3
+      },
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "APIS MELLIFICA",
+        "grade": 3
+      },
+      {
+        "name": "argentum nitricum",
+        "grade": 1
+      },
+      {
+        "name": "ARSENICUM ALBUM",
+        "grade": 3
+      },
+      {
+        "name": "arsenicum iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Arum triphyllum",
+        "grade": 1
+      },
+      {
+        "name": "ASCLEPIAS TUBEROSA",
+        "grade": 3
+      },
+      {
+        "name": "Belladona",
+        "grade": 2
+      },
+      {
+        "name": "borax",
+        "grade": 2
+      },
+      {
+        "name": "BUTOVISTA",
+        "grade": 3
+      },
+      {
+        "name": "Bufo Rana",
+        "grade": 2
+      },
+      {
+        "name": "Caladium",
+        "grade": 1
+      },
+      {
+        "name": "CALCAREA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "calcarea sulphurica",
+        "grade": 1
+      },
+      {
+        "name": "cantharis vesicatoria",
+        "grade": 1
+      },
+      {
+        "name": "causticum",
+        "grade": 1
+      },
+      {
+        "name": "chloralum hydratum",
+        "grade": 1
+      },
+      {
+        "name": "cicuta virosa",
+        "grade": 2
+      },
+      {
+        "name": "cistus canadensis",
+        "grade": 1
+      },
+      {
+        "name": "clematis erecta",
+        "grade": 1
+      },
+      {
+        "name": "Comocladia",
+        "grade": 2
+      },
+      {
+        "name": "copaiva officinalis",
+        "grade": 1
+      },
+      {
+        "name": "croton tiglium",
+        "grade": 1
+      },
+      {
+        "name": "DULCAMARA",
+        "grade": 3
+      },
+      {
+        "name": "Euphorbium",
+        "grade": 1
+      },
+      {
+        "name": "Fagopyrum",
+        "grade": 1
+      },
+      {
+        "name": "Fluoricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "GRAPHITES",
+        "grade": 3
+      },
+      {
+        "name": "Guaiacum Officinale",
+        "grade": 1
+      },
+      {
+        "name": "Hepar Sulphuris",
+        "grade": 1
+      },
+      {
+        "name": "Iodum",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 1
+      },
+      {
+        "name": "Kali Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Sulphuricum",
+        "grade": 2
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "grade": 2
+      },
+      {
+        "name": "Lappa Arctium",
+        "grade": 2
+      },
+      {
+        "name": "LEDUM PALUSTRE",
+        "grade": 3
+      },
+      {
+        "name": "Lycopodium",
+        "grade": 1
+      },
+      {
+        "name": "Mancinella",
+        "grade": 2
+      },
+      {
+        "name": "Manganum",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius",
+        "grade": 1
+      },
+      {
+        "name": "Mercurius Precipitatus Ruber",
+        "grade": 1
+      },
+      {
+        "name": "MEZEREUM",
+        "grade": 3
+      },
+      {
+        "name": "Natrium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Natrium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Oleander",
+        "grade": 1
+      },
+      {
+        "name": "Paeonia officinalis",
+        "grade": 1
+      },
+      {
+        "name": "PETROLEUM",
+        "grade": 3
+      },
+      {
+        "name": "PSORINUM",
+        "grade": 3
+      },
+      {
+        "name": "Radium Bromatum",
+        "grade": 1
+      },
+      {
+        "name": "RANUNCULUS BULBOSUS",
+        "grade": 3
+      },
+      {
+        "name": "RANUNCULUS SCLERATUS",
+        "grade": 3
+      },
+      {
+        "name": "RHUS TOXICODENDRON",
+        "grade": 3
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      },
+      {
+        "name": "Ruta",
+        "grade": 1
+      },
+      {
+        "name": "Sambucus nigra",
+        "grade": 1
+      },
+      {
+        "name": "Sanicula",
+        "grade": 1
+      },
+      {
+        "name": "Sarsaparilla",
+        "grade": 1
+      },
+      {
+        "name": "Sepia",
+        "grade": 2
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 2
+      },
+      {
+        "name": "Staphysagria",
+        "grade": 2
+      },
+      {
+        "name": "Stramonium",
+        "grade": 1
+      },
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      },
+      {
+        "name": "Sulphur Iodatum",
+        "grade": 1
+      },
+      {
+        "name": "Tellurium Metalicum",
+        "grade": 1
+      },
+      {
+        "name": "THUJA OCCIDENTALIA",
+        "grade": 3
+      },
+      {
+        "name": "Thyroidinum",
+        "grade": 1
+      },
+      {
+        "name": "Ustilago Maydis",
+        "grade": 1
+      },
+      {
+        "name": "Vinca Minor",
+        "grade": 1
+      },
+      {
+        "name": "Viola odorata",
+        "grade": 2
+      },
+      {
+        "name": "Viola Tricolor",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SKIN ANGLES",
+    "remedies": [
+      {
+        "name": "Graphites",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SKIN BEHIND EARS",
+    "remedies": [
+      {
+        "name": "Graphites",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SKIN FLEXURES",
+    "remedies": [
+      {
+        "name": "Graphites",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SKIN FOLDS",
+    "remedies": [
+      {
+        "name": "Graphites",
+        "grade": 2
+      },
+      {
+        "name": "Petroleum",
+        "grade": 2
+      },
+      {
+        "name": "PSORINUM",
+        "grade": 3
+      },
+      {
+        "name": "Sulphur",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SKIN ORIFICES",
+    "remedies": [
+      {
+        "name": "Graphites",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SKULL",
+    "remedies": [
+      {
+        "name": "arum metallicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SLEEP",
+    "remedies": [
+      {
+        "name": "antimonium tartaricum",
+        "grade": 2
+      },
+      {
+        "name": "dictamnus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SOFT PARTS",
+    "remedies": [
+      {
+        "name": "CALENDULA OFFICINALIS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SOLAR PLEXUS",
+    "remedies": [
+      {
+        "name": "ambra grisea",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SOLES",
+    "remedies": [
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SPERMATIC CORD",
+    "remedies": [
+      {
+        "name": "berberis vulgaris",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SPINAL AXIS",
+    "remedies": [
+      {
+        "name": "AGARICUS MUSCARIUS",
+        "grade": 3
+      },
+      {
+        "name": "colocynthis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SPINAL MOTOR NERVES",
+    "remedies": [
+      {
+        "name": "Physostigma",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SPINAL NERVES",
+    "remedies": [
+      {
+        "name": "HYPERICUM PERFOLIATUM",
+        "grade": 3
+      },
+      {
+        "name": "Ipecacuanha",
+        "grade": 1
+      },
+      {
+        "name": "KALMIA LATIFOLIA",
+        "grade": 3
+      },
+      {
+        "name": "Stramonium",
+        "grade": 1
+      },
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SPINE",
+    "remedies": [
+      {
+        "name": "adonis",
+        "grade": 2
+      },
+      {
+        "name": "ALUMINA",
+        "grade": 3
+      },
+      {
+        "name": "AMBRA GRISEA",
+        "grade": 3
+      },
+      {
+        "name": "Calendula officinali",
+        "grade": 2
+      },
+      {
+        "name": "Formica Rufa",
+        "grade": 2
+      },
+      {
+        "name": "Kali Bromatum",
+        "grade": 2
+      },
+      {
+        "name": "Medorrhinum",
+        "grade": 2
+      },
+      {
+        "name": "Onosmodium",
+        "grade": 1
+      },
+      {
+        "name": "Paris quadrifolia",
+        "grade": 2
+      },
+      {
+        "name": "Phosphoricum Acidum",
+        "grade": 2
+      },
+      {
+        "name": "Phosphorus",
+        "grade": 1
+      },
+      {
+        "name": "Tarentula Hispanica",
+        "grade": 2
+      },
+      {
+        "name": "Tellurium Metalicum",
+        "grade": 2
+      },
+      {
+        "name": "Theridion",
+        "grade": 2
+      },
+      {
+        "name": "Variolinum",
+        "grade": 2
+      },
+      {
+        "name": "Zincum",
+        "grade": 2
+      },
+      {
+        "name": "Zincum Valerianate",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SPLEEN",
+    "remedies": [
+      {
+        "name": "ARSENICUM ALBUM",
+        "grade": 3
+      },
+      {
+        "name": "bellis perennis",
+        "grade": 2
+      },
+      {
+        "name": "Carduus marianus",
+        "grade": 1
+      },
+      {
+        "name": "Ceanothus",
+        "grade": 1
+      },
+      {
+        "name": "china officinalis",
+        "grade": 2
+      },
+      {
+        "name": "Cornus circinate",
+        "grade": 1
+      },
+      {
+        "name": "Ferrum Metalicum",
+        "grade": 1
+      },
+      {
+        "name": "Natrium Muraticum",
+        "grade": 1
+      },
+      {
+        "name": "Squilla Maritima",
+        "grade": 1
+      },
+      {
+        "name": "Urtica Urens",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "STOMACH",
+    "remedies": [
+      {
+        "name": "anacardium orientale",
+        "grade": 1
+      },
+      {
+        "name": "ANTIMONIUM CRUDUM",
+        "grade": 3
+      },
+      {
+        "name": "antimonium tartaricu",
+        "grade": 2
+      },
+      {
+        "name": "ARGENTUM NITRICUM",
+        "grade": 3
+      },
+      {
+        "name": "Bismuthum",
+        "grade": 2
+      },
+      {
+        "name": "Cadmium suphuratum",
+        "grade": 2
+      },
+      {
+        "name": "CARBO VEGETABILIS",
+        "grade": 3
+      },
+      {
+        "name": "CARBOLICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "digitalis purpurea",
+        "grade": 1
+      },
+      {
+        "name": "epiphegus virginiana",
+        "grade": 1
+      },
+      {
+        "name": "Eupatorium Perfoliatum",
+        "grade": 1
+      },
+      {
+        "name": "HYDRASTIS CANADENSIS",
+        "grade": 3
+      },
+      {
+        "name": "Gambogia",
+        "grade": 2
+      },
+      {
+        "name": "Ipecacuanha",
+        "grade": 2
+      },
+      {
+        "name": "Jalapa",
+        "grade": 1
+      },
+      {
+        "name": "Jatropha",
+        "grade": 2
+      },
+      {
+        "name": "Kali Bichromicum",
+        "grade": 2
+      },
+      {
+        "name": "Kreosotum",
+        "grade": 2
+      },
+      {
+        "name": "Magnesium Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Mezereum",
+        "grade": 1
+      },
+      {
+        "name": "NUX VOMICA",
+        "grade": 3
+      },
+      {
+        "name": "Petroleum",
+        "grade": 1
+      },
+      {
+        "name": "PHOSPHORUS",
+        "grade": 3
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "Robinia",
+        "grade": 1
+      },
+      {
+        "name": "Sanguinaria Canadensis",
+        "grade": 1
+      },
+      {
+        "name": "Strophanthus",
+        "grade": 1
+      },
+      {
+        "name": "Taraxacum",
+        "grade": 1
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "SUPRA ORBITAL (LEFT)",
+    "remedies": [
+      {
+        "name": "Selenium",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SURFACES",
+    "remedies": [
+      {
+        "name": "Mancinella",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "SUTURES",
+    "remedies": [
+      {
+        "name": "CALCAREA PHOSPHORICA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "SYMPATHETIC",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      },
+      {
+        "name": "Lachesis Mutus",
+        "grade": 2
+      },
+      {
+        "name": "Opium",
+        "grade": 1
+      },
+      {
+        "name": "Tabacum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TARSI",
+    "remedies": [
+      {
+        "name": "Staphysagria",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "TEAR DUCTS",
+    "remedies": [
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TEETH",
+    "remedies": [
+      {
+        "name": "Euphorbium",
+        "grade": 1
+      },
+      {
+        "name": "Kreosotum",
+        "grade": 2
+      },
+      {
+        "name": "Plantago majour",
+        "grade": 2
+      },
+      {
+        "name": "Ratania",
+        "grade": 2
+      },
+      {
+        "name": "Spigelia Anthelmia",
+        "grade": 2
+      },
+      {
+        "name": "STAPHYSAGRIA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "TEMPLE LEFT",
+    "remedies": [
+      {
+        "name": "Naja TripudiansD",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TENDO ACHILLES",
+    "remedies": [
+      {
+        "name": "Valeriana Officinalis",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TENDONS",
+    "remedies": [
+      {
+        "name": "Ledum Palustre",
+        "grade": 2
+      },
+      {
+        "name": "Oleum Jecoris",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GENTS.TESTES(RIGHT)",
+    "remedies": [
+      {
+        "name": "argentum metalicum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GENTS.TESTIS",
+    "remedies": [
+      {
+        "name": "CLEMATIS ERECTA",
+        "grade": 3
+      },
+      {
+        "name": "Iodum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "THIGH (OUTER)",
+    "remedies": [
+      {
+        "name": "Lac Defloratum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "THORAX",
+    "remedies": [
+      {
+        "name": "RANUNCULUS BULBOSUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "THROAT , RIGHT SIDE",
+    "remedies": [
+      {
+        "name": "Mercurius Iodatus Flavus",
+        "grade": 2
+      },
+      {
+        "name": "Podophyllum Pelatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "THROAT PIT",
+    "remedies": [
+      {
+        "name": "RUMEX CRISPUS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "THROAT",
+    "remedies": [
+      {
+        "name": "AILANTHUS",
+        "grade": 3
+      },
+      {
+        "name": "argentum nitricum",
+        "grade": 1
+      },
+      {
+        "name": "ARUM TRIPHYLLUM",
+        "grade": 3
+      },
+      {
+        "name": "BARYTA CARBONICA",
+        "grade": 3
+      },
+      {
+        "name": "BELLADONA",
+        "grade": 3
+      },
+      {
+        "name": "CAPSICUM ANNUUM",
+        "grade": 3
+      },
+      {
+        "name": "carbolicum acidum",
+        "grade": 2
+      },
+      {
+        "name": "cistus canadensis",
+        "grade": 2
+      },
+      {
+        "name": "coccus cacti",
+        "grade": 1
+      },
+      {
+        "name": "crotalus horridus",
+        "grade": 2
+      },
+      {
+        "name": "DIPHTHERINUM",
+        "grade": 3
+      },
+      {
+        "name": "elaps corallinus",
+        "grade": 1
+      },
+      {
+        "name": "Hamamelis",
+        "grade": 1
+      },
+      {
+        "name": "Kalium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "LAC CANINUM",
+        "grade": 3
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "LYCOPODIUM",
+        "grade": 3
+      },
+      {
+        "name": "Lyssinum",
+        "grade": 2
+      },
+      {
+        "name": "Mancinella",
+        "grade": 1
+      },
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "MERCURIUS CORROSIVUS",
+        "grade": 3
+      },
+      {
+        "name": "MERCURIUS CYANATUS",
+        "grade": 3
+      },
+      {
+        "name": "MERCURIUS IODATUS FLAVUS",
+        "grade": 3
+      },
+      {
+        "name": "Mercurius Iodatus Ruber",
+        "grade": 1
+      },
+      {
+        "name": "Naja Tripudians",
+        "grade": 2
+      },
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      },
+      {
+        "name": "Sabadilla",
+        "grade": 2
+      },
+      {
+        "name": "Stramonium",
+        "grade": 1
+      },
+      {
+        "name": "Zincum Chromate",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "THYROID",
+    "remedies": [
+      {
+        "name": "Bromium",
+        "grade": 1
+      },
+      {
+        "name": "IODUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "TIBIA",
+    "remedies": [
+      {
+        "name": "Asafoetida",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TIPS OF FINGERS AND TOES",
+    "remedies": [
+      {
+        "name": "Ammonium Muraticum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TISSUES",
+    "remedies": [
+      {
+        "name": "Colchicum Autumnale",
+        "grade": 1
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "grade": 1
+      },
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      },
+      {
+        "name": "Sulphur Iodatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TOE JOINTS",
+    "remedies": [
+      {
+        "name": "Teucrium Marum Verum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TONGUE",
+    "remedies": [
+      {
+        "name": "MURIATICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "TONSILS",
+    "remedies": [
+      {
+        "name": "GUAIACUM OFFICINALE",
+        "grade": 3
+      },
+      {
+        "name": "MERCURIUS",
+        "grade": 3
+      },
+      {
+        "name": "Mercurius dulcis",
+        "grade": 1
+      },
+      {
+        "name": "Phytolacca Decandra",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "TRACHEA",
+    "remedies": [
+      {
+        "name": "Manganum",
+        "grade": 2
+      },
+      {
+        "name": "Osmium",
+        "grade": 2
+      },
+      {
+        "name": "Rumex Crispus",
+        "grade": 1
+      },
+      {
+        "name": "Spongia Tosta",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TRIFACIAL NERVE",
+    "remedies": [
+      {
+        "name": "COLOCYNTHIS",
+        "grade": 3
+      },
+      {
+        "name": "Platinum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "SPIGELIA ANTHELMIA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "TUBES",
+    "remedies": [
+      {
+        "name": "Silicea Terra",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "TUBULAR ORGANS",
+    "remedies": [
+      {
+        "name": "Nitric Acidum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "UMBLICAL CORD",
+    "remedies": [
+      {
+        "name": "dioscorea villosa",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "UMBLICUS",
+    "remedies": [
+      {
+        "name": "dulcamara",
+        "grade": 2
+      },
+      {
+        "name": "Ipecacuanha",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "URETERS (RIGHT)",
+    "remedies": [
+      {
+        "name": "Ocimum Canum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "URETHRA",
+    "remedies": [
+      {
+        "name": "argentum nitricum",
+        "grade": 1
+      },
+      {
+        "name": "CLEMATIS ERECTA",
+        "grade": 3
+      },
+      {
+        "name": "CUBEBA OFFICINALIS",
+        "grade": 3
+      },
+      {
+        "name": "Sabal serulata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "URINARY ORGANS",
+    "remedies": [
+      {
+        "name": "APOCYNUM",
+        "grade": 3
+      },
+      {
+        "name": "berberis vulgaris",
+        "grade": 2
+      },
+      {
+        "name": "camphora officinalis",
+        "grade": 1
+      },
+      {
+        "name": "CANTHARIS VESICATORIA",
+        "grade": 3
+      },
+      {
+        "name": "Gymnocladus",
+        "grade": 1
+      },
+      {
+        "name": "LYCOPODIUM",
+        "grade": 3
+      },
+      {
+        "name": "Tilia europaea",
+        "grade": 1
+      },
+      {
+        "name": "Viola Tricolor",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "URINE",
+    "remedies": [
+      {
+        "name": "BENZOICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "Lithium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Sulphuricum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "GENTS.UTERUS",
+    "remedies": [
+      {
+        "name": "apocynum",
+        "grade": 1
+      },
+      {
+        "name": "berberis vulgaris",
+        "grade": 1
+      },
+      {
+        "name": "Bovista",
+        "grade": 2
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 2
+      },
+      {
+        "name": "collinsonia",
+        "grade": 1
+      },
+      {
+        "name": "croton tiglium",
+        "grade": 1
+      },
+      {
+        "name": "FRAXINUS",
+        "grade": 3
+      },
+      {
+        "name": "Gossypium",
+        "grade": 1
+      },
+      {
+        "name": "Hydrastis Canadensis",
+        "grade": 1
+      },
+      {
+        "name": "Kali Carbonicum",
+        "grade": 2
+      },
+      {
+        "name": "Kreosotum",
+        "grade": 1
+      },
+      {
+        "name": "Lilium Tigrinum",
+        "grade": 2
+      },
+      {
+        "name": "Magnesium Muraticum",
+        "grade": 2
+      },
+      {
+        "name": "Millefolium",
+        "grade": 1
+      },
+      {
+        "name": "Palladium",
+        "grade": 1
+      },
+      {
+        "name": "Ruta",
+        "grade": 2
+      },
+      {
+        "name": "SABINA",
+        "grade": 3
+      },
+      {
+        "name": "SECALE CORNUTUM",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "UVULA",
+    "remedies": [
+      {
+        "name": "Mercurius Corrosivus",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "VAGINA",
+    "remedies": [
+      {
+        "name": "cubeba officinalis",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "VAGUS NERVE",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 1
+      },
+      {
+        "name": "digitalis purpurea",
+        "grade": 2
+      },
+      {
+        "name": "Platinum Metallicum",
+        "grade": 1
+      },
+      {
+        "name": "Tabacum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "VALVES",
+    "remedies": [
+      {
+        "name": "Zincum Iodatum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "VASCULAR SYSTEM",
+    "remedies": [
+      {
+        "name": "ARUM METALLICUM",
+        "grade": 3
+      },
+      {
+        "name": "Rhododendron",
+        "grade": 1
+      },
+      {
+        "name": "Thalaspi Bursa Pastori",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "VASOMOTOR NERVES",
+    "remedies": [
+      {
+        "name": "AMYLENUM NITROSUM",
+        "grade": 3
+      },
+      {
+        "name": "Astacus fluviatilis",
+        "grade": 1
+      },
+      {
+        "name": "LACHESIS MUTUS",
+        "grade": 3
+      },
+      {
+        "name": "Lobelia Inflata",
+        "grade": 2
+      },
+      {
+        "name": "Mellilotus Alba",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "VASOMOTORS",
+    "remedies": [
+      {
+        "name": "FERRUM METALICUM",
+        "grade": 3
+      },
+      {
+        "name": "Ferrum Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "GLONONIUM",
+        "grade": 3
+      },
+      {
+        "name": "Kalium nitricum",
+        "grade": 1
+      },
+      {
+        "name": "Latrodectus",
+        "grade": 1
+      },
+      {
+        "name": "SANGUINARIA CANADENSIS",
+        "grade": 3
+      },
+      {
+        "name": "Strontium Carbonicum",
+        "grade": 1
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "VEINLETS",
+    "remedies": [
+      {
+        "name": "CARBO ANIMALIS",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "VEINS",
+    "remedies": [
+      {
+        "name": "abrotanum",
+        "grade": 1
+      },
+      {
+        "name": "aesculus hippocastanum",
+        "grade": 2
+      },
+      {
+        "name": "Calcarea fluorica",
+        "grade": 2
+      },
+      {
+        "name": "Carduus marianus",
+        "grade": 2
+      },
+      {
+        "name": "FLUORICUM ACIDUM",
+        "grade": 3
+      },
+      {
+        "name": "HAMAMELIS",
+        "grade": 3
+      },
+      {
+        "name": "Paeonia officinalis",
+        "grade": 1
+      },
+      {
+        "name": "PULSATILLA",
+        "grade": 3
+      },
+      {
+        "name": "VIPERA",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "VENOUS CIRCULATION",
+    "remedies": [
+      {
+        "name": "Ferrum Phosphoricum",
+        "grade": 1
+      },
+      {
+        "name": "LILIUM TIGRINUM",
+        "grade": 3
+      },
+      {
+        "name": "Sepia",
+        "grade": 2
+      },
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "topic": "VERTEX",
+    "remedies": [
+      {
+        "name": "calcarea phosphorica",
+        "grade": 1
+      },
+      {
+        "name": "cimicifuga",
+        "grade": 1
+      },
+      {
+        "name": "Hypericum Perfoliatum",
+        "grade": 2
+      },
+      {
+        "name": "Lachesis Mutus",
+        "grade": 2
+      },
+      {
+        "name": "Menyanthes",
+        "grade": 1
+      },
+      {
+        "name": "Ranunculus Scleratus",
+        "grade": 2
+      },
+      {
+        "name": "SULPHUR",
+        "grade": 3
+      },
+      {
+        "name": "Veratrum Album",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "VISCERA",
+    "remedies": [
+      {
+        "name": "aconite",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "topic": "VISION",
+    "remedies": [
+      {
+        "name": "cyclamen europaem",
+        "grade": 2
+      },
+      {
+        "name": "GELSEMIUM",
+        "grade": 3
+      },
+      {
+        "name": "Viola odorata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "WOMEN",
+    "remedies": [
+      {
+        "name": "chamomila",
+        "grade": 2
+      },
+      {
+        "name": "coffea cruda",
+        "grade": 1
+      },
+      {
+        "name": "Magnesium Muraticum",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "WOMEN OLD",
+    "remedies": [
+      {
+        "name": "Nux Moschata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "WRIST , RIGHT",
+    "remedies": [
+      {
+        "name": "Viola odorata",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "topic": "WRIST",
+    "remedies": [
+      {
+        "name": "Actea spicata",
+        "grade": 1
+      },
+      {
+        "name": "Ruta",
+        "grade": 2
+      }
+    ]
+  }
+];
+  
